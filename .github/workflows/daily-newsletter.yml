@@ -1,0 +1,31 @@
+name: Daily Smart Dollar Newsletter
+
+on:
+  schedule:
+    # Runs every day at 8:00 AM UTC (9:00 AM Switzerland time)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    # Also allows manual trigger from GitHub UI (for testing)
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Run newsletter script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BEEHIIV_API_KEY:   ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUB_ID:    ${{ secrets.BEEHIIV_PUB_ID }}
+        run: python newsletter.py
