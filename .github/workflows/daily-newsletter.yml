@@ -1,14 +1,15 @@
-name: Daily Smart Dollar Newsletter
+name: Daily Smart Dollar Automation
 
 on:
   schedule:
-    # Runs every day at 8:00 AM UTC (9:00 AM Switzerland time)
-    - cron: '0 8 * * *'
-  workflow_dispatch:
-    # Also allows manual trigger from GitHub UI (for testing)
+    - cron: '0 8 * * *'  # 9:00 AM Switzerland time (UTC+1)
+  workflow_dispatch:      # Manual trigger for testing
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Fix Node.js deprecation warning
 
 jobs:
-  send-newsletter:
+  send-newsletter:          # ← IMPORTANT: must match your existing job name
     runs-on: ubuntu-latest
 
     steps:
@@ -23,9 +24,21 @@ jobs:
       - name: Install dependencies
         run: pip install anthropic requests
 
-      - name: Run newsletter script
+      - name: Run full automation
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          BEEHIIV_API_KEY:   ${{ secrets.BEEHIIV_API_KEY }}
-          BEEHIIV_PUB_ID:    ${{ secrets.BEEHIIV_PUB_ID }}
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          BEEHIIV_API_KEY:    ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUB_ID:     ${{ secrets.BEEHIIV_PUB_ID }}
+          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:        ${{ github.repository }}
+          PINTEREST_TOKEN:    ${{ secrets.PINTEREST_TOKEN }}
+          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
         run: python newsletter.py
+
+      - name: Save marketing pack as artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: marketing-pack-${{ github.run_number }}
+          path: marketing_pack_*.txt
+          retention-days: 30
