@@ -2,6 +2,7 @@ import anthropic
 import requests
 import json
 import os
+import base64
 import random
 from datetime import datetime
 
@@ -9,8 +10,8 @@ from datetime import datetime
 ANTHROPIC_API_KEY  = os.environ["ANTHROPIC_API_KEY"]
 BEEHIIV_API_KEY    = os.environ["BEEHIIV_API_KEY"]
 BEEHIIV_PUB_ID     = os.environ["BEEHIIV_PUB_ID"]
-GITHUB_TOKEN       = os.environ["GITHUB_TOKEN"]        # auto-provided by GitHub Actions!
-GITHUB_REPO        = os.environ.get("GITHUB_REPO", "")  # e.g. "arnaudg/smart-dollar-newsletter"
+GITHUB_TOKEN       = os.environ.get("GITHUB_TOKEN", "")
+REPO_NAME          = os.environ.get("REPO_NAME", "")   # e.g. "arnaudg/smart-dollar-newsletter"
 PINTEREST_TOKEN    = os.environ.get("PINTEREST_TOKEN", "")
 PINTEREST_BOARD_ID = os.environ.get("PINTEREST_BOARD_ID", "")
 
@@ -47,33 +48,33 @@ AFFILIATES = {
         "code":  "SDB98A",
         "label": "Neon", "emoji": "🇨🇭",
         "desc":  "Switzerland's best free bank account — use code SDB98A",
-        "tags":  ["swiss bank", "switzerland", "free account", "CHF", "neobank", "swiss"],
+        "tags":  ["swiss bank", "switzerland", "free account", "CHF", "neobank"],
     },
     "yuh": {
         "url":   "https://www.yuh.com/download",
         "code":  "uzwi60",
         "label": "Yuh", "emoji": "💰",
         "desc":  "Pay, save and invest in one Swiss app — use code uzwi60",
-        "tags":  ["swiss", "invest", "save", "pay", "all-in-one", "switzerland"],
+        "tags":  ["swiss", "invest", "save", "pay", "all-in-one"],
     },
     "binance": {
         "url":   "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP",
         "label": "Binance", "emoji": "🟡",
         "desc":  "World's largest crypto exchange — trade 350+ coins",
-        "tags":  ["crypto", "trading", "altcoins", "exchange", "bitcoin", "defi"],
+        "tags":  ["crypto", "trading", "altcoins", "exchange", "bitcoin"],
     },
     "alpian": {
         "url":   "https://onelink.to/download-alpian",
         "code":  "PCXTNB",
         "label": "Alpian", "emoji": "🏔️",
         "desc":  "Swiss private banking app — get CHF 25 bonus with code PCXTNB",
-        "tags":  ["swiss", "private banking", "wealth", "investment", "CHF", "premium"],
+        "tags":  ["swiss", "private banking", "wealth", "investment", "CHF"],
     },
     "wise": {
         "url":   "https://wise.com/invite/mic/f238f6e",
         "label": "Wise", "emoji": "🌍",
         "desc":  "Send money abroad with real exchange rates — no hidden fees",
-        "tags":  ["international transfer", "send money", "exchange rate", "abroad", "expat"],
+        "tags":  ["international transfer", "send money", "exchange rate", "abroad"],
     },
 }
 
@@ -90,7 +91,7 @@ def claude(prompt, max_tokens=1500):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 1. NEWSLETTER
+# 1. GENERATE NEWSLETTER CONTENT
 # ══════════════════════════════════════════════════════════════════════════════
 def generate_newsletter():
     today    = datetime.now().strftime("%B %d, %Y")
@@ -102,38 +103,36 @@ Date: {today}
 Available affiliate partners and their relevant topics:
 {aff_list}
 
-Return ONLY a JSON object with these exact fields:
+Return ONLY a JSON object:
 {{
   "subject": "catchy email subject under 60 chars",
   "headline": "main headline",
-  "intro": "2-3 sentence warm intro paragraph",
+  "intro": "2-3 sentence warm intro",
   "story1_tag": "MONEY TIP",
   "story1_title": "title",
-  "story1_body": "3-4 sentences, actionable, with specific numbers or percentages",
-  "story1_affiliate": null or one affiliate key from the list above,
+  "story1_body": "3-4 sentences with specific numbers or percentages",
+  "story1_affiliate": null or one affiliate key,
   "story2_tag": "AI SPOTLIGHT",
-  "story2_title": "title",
-  "story2_body": "3-4 sentences about an AI tool that saves money or time",
+  "story2_title": "title about an AI tool saving money or time",
+  "story2_body": "3-4 sentences",
   "story2_affiliate": null or one affiliate key,
   "story3_tag": "INVEST SMART",
-  "story3_title": "title",
-  "story3_body": "3-4 sentences on investing, Switzerland-relevant",
+  "story3_title": "investing title, Switzerland-relevant",
+  "story3_body": "3-4 sentences",
   "story3_affiliate": null or one affiliate key,
-  "quick_tip": "one punchy sentence tip of the day",
-  "seo_keyword": "2-4 word keyword this issue targets (e.g. best swiss investing app 2026)"
+  "quick_tip": "one punchy tip of the day",
+  "seo_keyword": "2-4 word keyword this targets"
 }}
 
-Rules:
-- Each affiliate used maximum once across all 3 stories
-- Match affiliate to story topic naturally — only include if genuinely relevant
-- Be specific with numbers, percentages, CHF/EUR amounts
-- Write like a smart helpful friend, not a corporate newsletter
-- Swiss/European perspective throughout"""
+Rules: each affiliate used max once, match to topic naturally, Swiss/European focus."""
 
     return json.loads(claude(prompt))
 
 
-def build_newsletter_html(issue):
+# ══════════════════════════════════════════════════════════════════════════════
+# 2. BUILD NEWSLETTER HTML
+# ══════════════════════════════════════════════════════════════════════════════
+def build_html(issue):
     today = datetime.now().strftime("%B %d, %Y")
 
     def aff_block(key):
@@ -141,187 +140,174 @@ def build_newsletter_html(issue):
             return ""
         a = AFFILIATES[key]
         code_html = f"<p style='margin:4px 0 6px;font-size:12px;color:#888;'>🎁 Use code: <strong>{a['code']}</strong></p>" if a.get("code") else ""
-        return f"""
-        <div style="margin-top:14px;background:#fffbeb;border:1px solid #fcd34d;border-radius:8px;padding:14px;">
+        return f"""<div style="margin-top:14px;background:#fffbeb;border:1px solid #fcd34d;border-radius:8px;padding:14px;">
           <p style="margin:0 0 4px;font-size:14px;color:#555;">{a['emoji']} <strong>{a['label']}</strong> — {a['desc']}</p>
           {code_html}
           <a href="{a['url']}" style="display:inline-block;background:#1a1a2e;color:#ffd700;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:700;text-decoration:none;margin-top:4px;">Try {a['label']} →</a>
         </div>"""
 
     return f"""<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{issue['subject']}</title>
-</head>
+<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{issue['subject']}</title></head>
 <body style="font-family:Georgia,serif;max-width:600px;margin:0 auto;padding:20px;background:#fff;color:#1a1a2e;">
-
   <div style="text-align:center;padding:24px 0 20px;border-bottom:3px solid #ffd700;margin-bottom:28px;">
-    <h1 style="font-size:28px;font-weight:900;margin:0;letter-spacing:-0.5px;">💰 The Smart Dollar</h1>
+    <h1 style="font-size:28px;font-weight:900;margin:0;">💰 The Smart Dollar</h1>
     <p style="margin:8px 0 0;color:#888;font-size:13px;">{today} · Finance & AI for Smart People</p>
   </div>
-
   <h2 style="font-size:24px;font-weight:800;line-height:1.3;margin-bottom:10px;">{issue['headline']}</h2>
   <p style="font-size:15px;color:#555;line-height:1.8;margin-bottom:28px;">{issue['intro']}</p>
-
   <div style="background:#f0fdf4;border-left:4px solid #16a34a;padding:18px 20px;border-radius:0 8px 8px 0;margin-bottom:20px;">
-    <span style="font-size:10px;font-weight:800;color:#16a34a;letter-spacing:2px;text-transform:uppercase;">{issue['story1_tag']}</span>
+    <span style="font-size:10px;font-weight:800;color:#16a34a;letter-spacing:2px;">{issue['story1_tag']}</span>
     <h3 style="font-size:18px;font-weight:800;margin:8px 0 10px;">{issue['story1_title']}</h3>
     <p style="font-size:14px;color:#444;line-height:1.8;margin:0;">{issue['story1_body']}</p>
     {aff_block(issue.get('story1_affiliate'))}
   </div>
-
   <div style="background:#eff6ff;border-left:4px solid #2563eb;padding:18px 20px;border-radius:0 8px 8px 0;margin-bottom:20px;">
-    <span style="font-size:10px;font-weight:800;color:#2563eb;letter-spacing:2px;text-transform:uppercase;">{issue['story2_tag']}</span>
+    <span style="font-size:10px;font-weight:800;color:#2563eb;letter-spacing:2px;">{issue['story2_tag']}</span>
     <h3 style="font-size:18px;font-weight:800;margin:8px 0 10px;">{issue['story2_title']}</h3>
     <p style="font-size:14px;color:#444;line-height:1.8;margin:0;">{issue['story2_body']}</p>
     {aff_block(issue.get('story2_affiliate'))}
   </div>
-
   <div style="background:#fefce8;border-left:4px solid #ca8a04;padding:18px 20px;border-radius:0 8px 8px 0;margin-bottom:20px;">
-    <span style="font-size:10px;font-weight:800;color:#ca8a04;letter-spacing:2px;text-transform:uppercase;">{issue['story3_tag']}</span>
+    <span style="font-size:10px;font-weight:800;color:#ca8a04;letter-spacing:2px;">{issue['story3_tag']}</span>
     <h3 style="font-size:18px;font-weight:800;margin:8px 0 10px;">{issue['story3_title']}</h3>
     <p style="font-size:14px;color:#444;line-height:1.8;margin:0;">{issue['story3_body']}</p>
     {aff_block(issue.get('story3_affiliate'))}
   </div>
-
   <div style="background:#1a1a2e;color:#fff;padding:20px 24px;border-radius:12px;text-align:center;margin-bottom:28px;">
-    <p style="font-size:11px;opacity:0.6;margin:0 0 6px;letter-spacing:2px;text-transform:uppercase;">💡 Tip of the Day</p>
+    <p style="font-size:11px;opacity:0.6;margin:0 0 6px;letter-spacing:2px;">💡 TIP OF THE DAY</p>
     <p style="font-size:16px;font-weight:700;margin:0;line-height:1.5;">{issue['quick_tip']}</p>
   </div>
-
-  <div style="text-align:center;padding:20px 0;border-top:1px solid #eee;margin-top:8px;">
-    <p style="font-size:14px;color:#888;margin:0 0 12px;">Know someone who'd love this? Share The Smart Dollar 👇</p>
+  <div style="text-align:center;padding:20px 0;border-top:1px solid #eee;">
+    <p style="font-size:14px;color:#888;margin:0 0 12px;">Share The Smart Dollar with a friend 👇</p>
     <a href="{SUBSCRIBE_URL}" style="display:inline-block;background:#ffd700;color:#1a1a2e;padding:12px 28px;border-radius:8px;font-weight:800;font-size:14px;text-decoration:none;">Subscribe Free →</a>
-    <p style="font-size:11px;color:#ccc;margin:16px 0 0;">The Smart Dollar · You're receiving this because you subscribed.</p>
+    <p style="font-size:11px;color:#ccc;margin:16px 0 0;">The Smart Dollar · Unsubscribe anytime.</p>
   </div>
-
-</body>
-</html>"""
-
-
-def post_to_beehiiv(issue, html):
-    """Posts as draft to Beehiiv. Works on free plan."""
-    url = f"https://api.beehiiv.com/v2/publications/{BEEHIIV_PUB_ID}/posts"
-    payload = {
-        "title":        issue["subject"],
-        "subtitle":     issue["headline"],
-        "content_html": html,
-        "status":       "draft",
-    }
-    r = requests.post(url,
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {BEEHIIV_API_KEY}"},
-        json=payload)
-    if not r.ok:
-        print(f"   ⚠️  Beehiiv error {r.status_code}: {r.text}")
-        r.raise_for_status()
-    return r.json()
+</body></html>"""
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 2. SEO BLOG POST → GitHub Pages (replaces Blogger, no OAuth needed)
+# 3. SAVE NEWSLETTER TO GITHUB (replaces Beehiiv API — free plan compatible)
 # ══════════════════════════════════════════════════════════════════════════════
-def generate_blog_post(issue):
-    aff_keys = random.sample(list(AFFILIATES.keys()), min(2, len(AFFILIATES)))
-    aff_info = "\n".join([f"- {AFFILIATES[k]['label']}: {AFFILIATES[k]['desc']} — {AFFILIATES[k]['url']}" for k in aff_keys])
-
-    prompt = f"""Write a 500-word SEO blog post targeting: "{issue['seo_keyword']}"
-
-Audience: Swiss/European people interested in personal finance.
-Newsletter link to include: {SUBSCRIBE_URL}
-
-Naturally include these affiliate links (don't force them):
-{aff_info}
-
-Return JSON:
-{{
-  "title": "SEO blog post title containing the keyword",
-  "slug": "url-friendly-slug-with-hyphens-no-spaces",
-  "meta_description": "155 char meta description",
-  "html_body": "complete blog post HTML with h2 subheadings, paragraphs, affiliate links as <a href='URL'>text</a>"
-}}
-
-Make it genuinely useful. Include specific numbers and actionable steps."""
-
-    return json.loads(claude(prompt, max_tokens=2000))
-
-
-def publish_to_github_pages(blog_post, issue):
-    """Commits a new blog post HTML file to the gh-pages branch."""
-    if not GITHUB_TOKEN or not GITHUB_REPO:
-        print("   ⏭️  GitHub Pages not configured, skipping")
+def save_newsletter_to_github(issue, html):
+    """Saves the newsletter HTML to the repo so you can copy-paste into Beehiiv."""
+    if not GITHUB_TOKEN or not REPO_NAME:
+        print("   ⚠️  GITHUB_TOKEN or REPO_NAME missing, saving locally only")
+        today = datetime.now().strftime("%Y-%m-%d")
+        with open(f"newsletter_{today}.html", "w") as f:
+            f.write(html)
         return
 
     today    = datetime.now().strftime("%Y-%m-%d")
-    slug     = blog_post.get("slug", "post-" + today)
-    filename = f"blog/{today}-{slug}.html"
+    filename = f"newsletters/newsletter_{today}.html"
+    api_url  = f"https://api.github.com/repos/{REPO_NAME}/contents/{filename}"
+    headers  = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept":        "application/vnd.github+json",
+    }
+
+    # Check if file exists (to get SHA for update)
+    sha = None
+    existing = requests.get(api_url, headers=headers)
+    if existing.ok:
+        sha = existing.json().get("sha")
+
+    data = {
+        "message": f"Newsletter: {issue['subject']}",
+        "content": base64.b64encode(html.encode()).decode(),
+        "branch":  "main",
+    }
+    if sha:
+        data["sha"] = sha
+
+    r = requests.put(api_url, headers=headers, json=data)
+    if r.ok:
+        print(f"   ✅ Newsletter saved to GitHub: {filename}")
+        print(f"   👉 Open it at: https://github.com/{REPO_NAME}/blob/main/{filename}")
+        print(f"   👉 Then copy the HTML into Beehiiv → New Post → HTML view")
+    else:
+        print(f"   ⚠️  GitHub save failed: {r.status_code} — {r.text[:150]}")
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# 4. SEO BLOG POST → GitHub Pages
+# ══════════════════════════════════════════════════════════════════════════════
+def generate_and_publish_blog(issue):
+    aff_keys = random.sample(list(AFFILIATES.keys()), 2)
+    aff_info = "\n".join([f"- {AFFILIATES[k]['label']}: {AFFILIATES[k]['desc']} — {AFFILIATES[k]['url']}" for k in aff_keys])
+
+    prompt = f"""Write a 500-word SEO blog post targeting: "{issue['seo_keyword']}"
+Swiss/European audience. Include newsletter link: {SUBSCRIBE_URL}
+Naturally include these affiliates: {aff_info}
+
+Return JSON:
+{{
+  "title": "SEO title with keyword",
+  "slug": "url-friendly-slug",
+  "meta_description": "155 char meta description",
+  "html_body": "full blog post HTML with h2s, paragraphs, affiliate links"
+}}"""
+
+    blog = json.loads(claude(prompt, max_tokens=2000))
+
+    if not GITHUB_TOKEN or not REPO_NAME:
+        print("   ⏭️  GitHub not configured, skipping blog")
+        return
+
+    today    = datetime.now().strftime("%Y-%m-%d")
+    filename = f"blog/{today}-{blog['slug']}.html"
+    api_url  = f"https://api.github.com/repos/{REPO_NAME}/contents/{filename}"
+    headers  = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json"}
 
     full_html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{blog_post['title']} | The Smart Dollar</title>
-  <meta name="description" content="{blog_post['meta_description']}">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>{blog['title']} | The Smart Dollar</title>
+  <meta name="description" content="{blog['meta_description']}">
   <style>
-    body {{ font-family: Georgia, serif; max-width: 700px; margin: 40px auto; padding: 0 20px; color: #1a1a2e; line-height: 1.8; }}
-    h1 {{ font-size: 2em; font-weight: 900; border-bottom: 3px solid #ffd700; padding-bottom: 12px; }}
-    h2 {{ font-size: 1.4em; font-weight: 800; margin-top: 2em; }}
-    a {{ color: #2563eb; }}
-    .cta {{ background: #1a1a2e; color: #fff; padding: 20px; border-radius: 10px; text-align: center; margin: 2em 0; }}
-    .cta a {{ color: #ffd700; font-weight: 700; font-size: 1.1em; }}
-    .date {{ color: #888; font-size: 0.9em; margin-bottom: 2em; }}
+    body{{font-family:Georgia,serif;max-width:700px;margin:40px auto;padding:0 20px;color:#1a1a2e;line-height:1.8;}}
+    h1{{font-size:2em;font-weight:900;border-bottom:3px solid #ffd700;padding-bottom:12px;}}
+    h2{{font-size:1.4em;font-weight:800;margin-top:2em;}}
+    a{{color:#2563eb;}}
+    .cta{{background:#1a1a2e;color:#fff;padding:20px;border-radius:10px;text-align:center;margin:2em 0;}}
+    .cta a{{color:#ffd700;font-weight:700;font-size:1.1em;}}
+    .date{{color:#888;font-size:0.9em;margin-bottom:2em;}}
   </style>
 </head>
 <body>
   <p><a href="/">← The Smart Dollar</a></p>
-  <h1>{blog_post['title']}</h1>
+  <h1>{blog['title']}</h1>
   <p class="date">Published {datetime.now().strftime("%B %d, %Y")}</p>
-  {blog_post['html_body']}
+  {blog['html_body']}
   <div class="cta">
-    <p style="margin:0 0 10px;opacity:0.8;">Get daily money tips in your inbox — free.</p>
+    <p style="margin:0 0 10px;opacity:0.8;">Get daily money tips — free.</p>
     <a href="{SUBSCRIBE_URL}">Subscribe to The Smart Dollar →</a>
   </div>
 </body>
 </html>"""
 
-    import base64
-    api_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{filename}"
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28"
-    }
-    data = {
-        "message": f"Add blog post: {blog_post['title']}",
-        "content": base64.b64encode(full_html.encode()).decode(),
-        "branch":  "gh-pages"
-    }
+    data = {"message": f"Blog: {blog['title']}", "content": base64.b64encode(full_html.encode()).decode(), "branch": "gh-pages"}
     r = requests.put(api_url, headers=headers, json=data)
     if r.ok:
         print(f"   ✅ Blog post published: {filename}")
     else:
-        print(f"   ⚠️  Blog post skipped: {r.status_code} — {r.text[:100]}")
+        print(f"   ⚠️  Blog skipped: {r.status_code} — {r.text[:100]}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 3. PINTEREST (official API, fully automated)
+# 5. PINTEREST
 # ══════════════════════════════════════════════════════════════════════════════
 def post_to_pinterest(issue):
     if not PINTEREST_TOKEN or not PINTEREST_BOARD_ID:
         print("   ⏭️  Pinterest not configured yet, skipping")
         return
 
-    prompt = f"""Create a Pinterest pin for this finance tip:
+    prompt = f"""Pinterest pin for finance tip:
 Headline: {issue['headline']}
 Tip: {issue['quick_tip']}
-
-Return JSON:
-{{
-  "title": "Pinterest title under 100 chars",
-  "description": "200-400 char description with these hashtags: #PersonalFinance #SwissFinance #MoneyTips #Investing #FinancialFreedom"
-}}"""
+JSON: {{"title": "under 100 chars", "description": "200-400 chars + hashtags #PersonalFinance #SwissFinance #MoneyTips #Investing #FinancialFreedom"}}"""
 
     pin = json.loads(claude(prompt, max_tokens=300))
     image_url = f"https://picsum.photos/seed/{datetime.now().strftime('%Y%m%d')}/800/1200"
@@ -329,55 +315,44 @@ Return JSON:
     r = requests.post("https://api.pinterest.com/v5/pins",
         headers={"Authorization": f"Bearer {PINTEREST_TOKEN}", "Content-Type": "application/json"},
         json={
-            "board_id":    PINTEREST_BOARD_ID,
-            "title":       pin["title"],
-            "description": pin["description"] + f"\n\n🔗 Free newsletter: {SUBSCRIBE_URL}",
+            "board_id":     PINTEREST_BOARD_ID,
+            "title":        pin["title"],
+            "description":  pin["description"] + f"\n\n🔗 Free newsletter: {SUBSCRIBE_URL}",
             "media_source": {"source_type": "image_url", "url": image_url},
-            "link":        SUBSCRIBE_URL,
+            "link":         SUBSCRIBE_URL,
         })
     if r.ok:
         print("   ✅ Pinterest pin posted!")
     else:
-        print(f"   ⚠️  Pinterest skipped: {r.status_code}")
+        print(f"   ⚠️  Pinterest skipped: {r.status_code} — {r.text[:100]}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# 4. MARKETING PACK (Reddit + Twitter + LinkedIn — saved as artifact)
+# 6. MARKETING PACK
 # ══════════════════════════════════════════════════════════════════════════════
 def generate_marketing_pack(issue):
-    aff_keys  = [issue.get(f"story{i}_affiliate") for i in range(1,4) if issue.get(f"story{i}_affiliate")]
-    primary   = AFFILIATES[aff_keys[0]] if aff_keys else AFFILIATES["etoro"]
+    aff_keys = [issue.get(f"story{i}_affiliate") for i in range(1,4) if issue.get(f"story{i}_affiliate")]
+    primary  = AFFILIATES[aff_keys[0]] if aff_keys else AFFILIATES["etoro"]
 
-    reddit_prompt = f"""Write a helpful Reddit comment about "{issue['seo_keyword']}" based on:
-{issue['story1_body']}
-
-Rules: Sound like a real person. Be genuinely helpful first.
-Mention {primary['label']} naturally only if relevant.
-End with: "I write a free weekly newsletter on this: {SUBSCRIBE_URL}"
+    reddit_r  = json.loads(claude(f"""Helpful Reddit comment about "{issue['seo_keyword']}".
+Based on: {issue['story1_body']}
+Mention {primary['label']} naturally if relevant.
+End with: "I write a free newsletter on this: {SUBSCRIBE_URL}"
 Max 120 words. No headers.
+Suggest 3 subreddits.
+JSON: {{"comment":"text","subreddits":["s1","s2","s3"],"search_query":"what to search for"}}""", 400))
 
-Also suggest 3 subreddits.
-
-JSON: {{"comment": "text", "subreddits": ["sub1","sub2","sub3"], "search_query": "what to search for"}}"""
-
-    twitter_prompt = f"""Write a 5-tweet Twitter thread about: "{issue['headline']}"
+    twitter_r = json.loads(claude(f"""5-tweet thread about "{issue['headline']}".
 Insights: {issue['story1_body'][:150]} / {issue['story2_body'][:150]}
 Tip: {issue['quick_tip']}
-Last tweet CTA: subscribe at {SUBSCRIBE_URL} with hashtags #PersonalFinance #SwissFinance #MoneyTips
+Last tweet: subscribe at {SUBSCRIBE_URL} + hashtags #PersonalFinance #SwissFinance #MoneyTips
+JSON: {{"tweets":["t1","t2","t3","t4","t5"]}}""", 500))
 
-JSON: {{"tweets": ["tweet1","tweet2","tweet3","tweet4","tweet5"]}}"""
-
-    linkedin_prompt = f"""Write a LinkedIn post about: "{issue['headline']}"
-Key insight: {issue['story1_body']}
-CTA: subscribe free at {SUBSCRIBE_URL}
-150-180 words. Professional but conversational. Don't start with "I".
-End with 4 hashtags.
-
-JSON: {{"post": "full text"}}"""
-
-    reddit   = json.loads(claude(reddit_prompt,   max_tokens=400))
-    twitter  = json.loads(claude(twitter_prompt,  max_tokens=500))
-    linkedin = json.loads(claude(linkedin_prompt, max_tokens=350))
+    linkedin_r = json.loads(claude(f"""LinkedIn post about "{issue['headline']}".
+Insight: {issue['story1_body']}
+CTA: subscribe at {SUBSCRIBE_URL}
+150-180 words. Don't start with "I". 4 hashtags at end.
+JSON: {{"post":"text"}}""", 350))
 
     today   = datetime.now().strftime("%Y-%m-%d")
     content = f"""
@@ -386,44 +361,44 @@ JSON: {{"post": "full text"}}"""
 ║                      {today}                         ║
 ╚══════════════════════════════════════════════════════════════╝
 
-Today's topic: {issue['headline']}
+Topic: {issue['headline']}
 Subscribe link: {SUBSCRIBE_URL}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟠 REDDIT — Post this comment (takes 2 minutes!)
+🗞️  BEEHIIV — Post today's newsletter (30 seconds)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Where to post: {" | ".join(["r/"+s for s in reddit["subreddits"]])}
-Search for posts about: "{reddit["search_query"]}"
-
-YOUR COMMENT (copy-paste this):
-───────────────────────────────
-{reddit["comment"]}
-───────────────────────────────
+1. Go to: https://github.com/{REPO_NAME}/tree/main/newsletters
+2. Open today's newsletter_{today}.html file
+3. Click "Raw" → Select all → Copy
+4. Go to app.beehiiv.com → New Post → click "</>" HTML button
+5. Paste → click back to visual editor → set subject: {issue['subject']}
+6. Click Send!
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🐦 TWITTER/X THREAD — Post as a thread
+🟠 REDDIT — 2 minutes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Post in: {" | ".join(["r/"+s for s in reddit_r["subreddits"]])}
+Search for: "{reddit_r["search_query"]}"
 
-{chr(10).join([f"Tweet {i+1}:{chr(10)}{t}{chr(10)}" for i,t in enumerate(twitter["tweets"])])}
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💼 LINKEDIN POST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-{linkedin["post"]}
+{reddit_r["comment"]}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ AUTO-COMPLETED TODAY:
-   📧 Newsletter → posted to Beehiiv as draft (go send it!)
-   📝 SEO Blog post → published to GitHub Pages
-   📌 Pinterest pin → posted automatically
+🐦 TWITTER/X THREAD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{chr(10).join([f"Tweet {i+1}:{chr(10)}{t}{chr(10)}" for i,t in enumerate(twitter_r["tweets"])])}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 LINKEDIN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{linkedin_r["post"]}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AUTO-COMPLETED: Blog ✅  Pinterest ✅  Newsletter saved ✅
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
-    filename = f"marketing_pack_{today}.txt"
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(f"marketing_pack_{today}.txt", "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"   ✅ Marketing pack saved: {filename}")
+    print(f"   ✅ Marketing pack saved!")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -432,36 +407,27 @@ YOUR COMMENT (copy-paste this):
 if __name__ == "__main__":
     print("\n🚀 THE SMART DOLLAR — Daily Automation v3\n")
 
-    # 1. Generate newsletter content
     print("📝 Generating newsletter...")
     issue = generate_newsletter()
     print(f"   ✅ Subject: {issue['subject']}")
-    print(f"   ✅ SEO keyword: {issue['seo_keyword']}")
 
-    # 2. Post newsletter to Beehiiv as draft
-    print("📧 Posting to Beehiiv...")
-    html = build_newsletter_html(issue)
-    result = post_to_beehiiv(issue, html)
-    post_id = result.get("data", {}).get("id", "unknown")
-    print(f"   ✅ Draft created! Post ID: {post_id}")
-    print(f"   👉 Go to Beehiiv → Posts → Drafts → Send it!")
+    html = build_html(issue)
 
-    # 3. Publish SEO blog post to GitHub Pages
+    print("💾 Saving newsletter to GitHub...")
+    save_newsletter_to_github(issue, html)
+
     print("📝 Publishing SEO blog post...")
     try:
-        blog = generate_blog_post(issue)
-        publish_to_github_pages(blog, issue)
+        generate_and_publish_blog(issue)
     except Exception as e:
         print(f"   ⚠️  Blog skipped: {e}")
 
-    # 4. Post to Pinterest
     print("📌 Posting to Pinterest...")
     try:
         post_to_pinterest(issue)
     except Exception as e:
         print(f"   ⚠️  Pinterest skipped: {e}")
 
-    # 5. Generate marketing pack
     print("📣 Generating marketing pack...")
     try:
         generate_marketing_pack(issue)
@@ -470,8 +436,9 @@ if __name__ == "__main__":
 
     print("\n🎉 ALL DONE!")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("✅ Newsletter → Beehiiv draft (go send!)")
-    print("✅ Blog post  → GitHub Pages")
-    print("✅ Pinterest  → Auto-posted")
-    print("✅ Marketing  → Download artifact below")
+    print("✅ Newsletter → saved to GitHub/newsletters/")
+    print("✅ Blog post  → published to GitHub Pages")
+    print("✅ Pinterest  → auto-posted")
+    print("✅ Marketing  → download artifact in Actions")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(f"\n👉 To send newsletter: open GitHub → newsletters folder → copy HTML → paste into Beehiiv")
