@@ -76,6 +76,12 @@ AFFILIATES = {
         "desc":  "Send money abroad with real exchange rates — no hidden fees",
         "tags":  ["international transfer", "send money", "exchange rate", "abroad"],
     },
+    "getyourguide": {
+        "url":   "https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher",
+        "label": "GetYourGuide", "emoji": "🗺️",
+        "desc":  "Book amazing activities and tours across Switzerland",
+        "tags":  ["travel", "activities", "tours", "switzerland", "tourism", "experiences", "holidays"],
+    },
 }
 
 # ── CLAUDE CLIENT ─────────────────────────────────────────────────────────────
@@ -146,16 +152,12 @@ def build_html(issue):
           <a href="{a['url']}" style="display:inline-block;background:#1a1a2e;color:#ffd700;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:700;text-decoration:none;margin-top:4px;">Try {a['label']} →</a>
         </div>"""
 
-    return f"""<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{issue['subject']}</title></head>
-<body style="font-family:Georgia,serif;max-width:600px;margin:0 auto;padding:20px;background:#fff;color:#1a1a2e;">
-  <div style="text-align:center;padding:24px 0 20px;border-bottom:3px solid #ffd700;margin-bottom:28px;">
-    <h1 style="font-size:28px;font-weight:900;margin:0;">💰 The Smart Dollar</h1>
-    <p style="margin:8px 0 0;color:#888;font-size:13px;">{today} · Finance & AI for Smart People</p>
+    # Body-only HTML — no DOCTYPE/html/head tags — works perfectly in Beehiiv editor
+    return f"""<div style="font-family:Georgia,serif;max-width:600px;margin:0 auto;color:#1a1a2e;">
+  <div style="text-align:center;padding:20px 0 16px;border-bottom:3px solid #ffd700;margin-bottom:24px;">
+    <p style="font-size:13px;color:#888;margin:0;">{today} · Finance & AI for Smart People</p>
   </div>
-  <h2 style="font-size:24px;font-weight:800;line-height:1.3;margin-bottom:10px;">{issue['headline']}</h2>
-  <p style="font-size:15px;color:#555;line-height:1.8;margin-bottom:28px;">{issue['intro']}</p>
+  <p style="font-size:15px;color:#555;line-height:1.8;margin-bottom:24px;">{issue['intro']}</p>
   <div style="background:#f0fdf4;border-left:4px solid #16a34a;padding:18px 20px;border-radius:0 8px 8px 0;margin-bottom:20px;">
     <span style="font-size:10px;font-weight:800;color:#16a34a;letter-spacing:2px;">{issue['story1_tag']}</span>
     <h3 style="font-size:18px;font-weight:800;margin:8px 0 10px;">{issue['story1_title']}</h3>
@@ -174,16 +176,15 @@ def build_html(issue):
     <p style="font-size:14px;color:#444;line-height:1.8;margin:0;">{issue['story3_body']}</p>
     {aff_block(issue.get('story3_affiliate'))}
   </div>
-  <div style="background:#1a1a2e;color:#fff;padding:20px 24px;border-radius:12px;text-align:center;margin-bottom:28px;">
+  <div style="background:#1a1a2e;color:#fff;padding:18px 24px;border-radius:12px;text-align:center;margin-bottom:24px;">
     <p style="font-size:11px;opacity:0.6;margin:0 0 6px;letter-spacing:2px;">💡 TIP OF THE DAY</p>
-    <p style="font-size:16px;font-weight:700;margin:0;line-height:1.5;">{issue['quick_tip']}</p>
+    <p style="font-size:15px;font-weight:700;margin:0;line-height:1.5;">{issue['quick_tip']}</p>
   </div>
-  <div style="text-align:center;padding:20px 0;border-top:1px solid #eee;">
-    <p style="font-size:14px;color:#888;margin:0 0 12px;">Share The Smart Dollar with a friend 👇</p>
+  <div style="text-align:center;padding:16px 0;border-top:1px solid #eee;">
+    <p style="font-size:14px;color:#888;margin:0 0 10px;">Share The Smart Dollar with a friend 👇</p>
     <a href="{SUBSCRIBE_URL}" style="display:inline-block;background:#ffd700;color:#1a1a2e;padding:12px 28px;border-radius:8px;font-weight:800;font-size:14px;text-decoration:none;">Subscribe Free →</a>
-    <p style="font-size:11px;color:#ccc;margin:16px 0 0;">The Smart Dollar · Unsubscribe anytime.</p>
   </div>
-</body></html>"""
+</div>"""
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -220,11 +221,44 @@ def save_newsletter_to_github(issue, html):
     if sha:
         data["sha"] = sha
 
+    # Also save a plain-text instructions file alongside the HTML
+    instructions = f"""
+==================================================
+THE SMART DOLLAR — {today}
+==================================================
+
+STEP 1 — Go to app.beehiiv.com → click "+ New Post"
+
+STEP 2 — TITLE (paste this in the title field):
+{issue['subject']}
+
+STEP 3 — SUBTITLE (paste this in the subtitle field):
+{issue['headline']}
+
+STEP 4 — BODY (paste the HTML):
+• Open the .html file in this folder
+• Click "Raw" button → Select All → Copy
+• In Beehiiv editor: click "/" → search "HTML block" → paste
+
+STEP 5 — Click "Next" → "Send" → Done! 🎉
+==================================================
+"""
+    inst_filename = f"newsletters/HOW_TO_POST_{today}.txt"
+    inst_api_url  = f"https://api.github.com/repos/{REPO_NAME}/contents/{inst_filename}"
+
     r = requests.put(api_url, headers=headers, json=data)
     if r.ok:
-        print(f"   ✅ Newsletter saved to GitHub: {filename}")
-        print(f"   👉 Open it at: https://github.com/{REPO_NAME}/blob/main/{filename}")
-        print(f"   👉 Then copy the HTML into Beehiiv → New Post → HTML view")
+        print(f"   ✅ Newsletter HTML saved: {filename}")
+        # Also save instructions file
+        inst_data = {"message": f"Instructions: {today}", "content": base64.b64encode(instructions.encode()).decode(), "branch": "main"}
+        existing_inst = requests.get(inst_api_url, headers=headers)
+        if existing_inst.ok:
+            inst_data["sha"] = existing_inst.json().get("sha")
+        requests.put(inst_api_url, headers=headers, json=inst_data)
+        print(f"   ✅ Instructions saved!")
+        print(f"   👉 GitHub → newsletters/ folder → open HOW_TO_POST_{today}.txt")
+        print(f"   📋 TITLE: {issue['subject']}")
+        print(f"   📋 SUBTITLE: {issue['headline']}")
     else:
         print(f"   ⚠️  GitHub save failed: {r.status_code} — {r.text[:150]}")
 
