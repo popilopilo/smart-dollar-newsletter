@@ -2,15 +2,17 @@ name: Daily Smart Dollar Automation
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 9:00 AM Switzerland time (UTC+1)
-  workflow_dispatch:      # Manual trigger for testing
+    - cron: '0 8 * * *'  # 9:00 AM Switzerland time
+  workflow_dispatch:
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Fix Node.js deprecation warning
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  send-newsletter:          # ← IMPORTANT: must match your existing job name
+  send-newsletter:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to save files to repo
 
     steps:
       - name: Checkout repository
@@ -30,7 +32,7 @@ jobs:
           BEEHIIV_API_KEY:    ${{ secrets.BEEHIIV_API_KEY }}
           BEEHIIV_PUB_ID:     ${{ secrets.BEEHIIV_PUB_ID }}
           GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPO:        ${{ github.repository }}
+          REPO_NAME:          ${{ github.repository }}
           PINTEREST_TOKEN:    ${{ secrets.PINTEREST_TOKEN }}
           PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
         run: python newsletter.py
