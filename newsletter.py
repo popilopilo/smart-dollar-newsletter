@@ -450,11 +450,8 @@ if __name__ == "__main__":
     print("💾 Saving newsletter to GitHub...")
     save_newsletter_to_github(issue, html)
 
-    print("📝 Publishing SEO blog post...")
-    try:
-        generate_and_publish_blog(issue)
-    except Exception as e:
-        print(f"   ⚠️  Blog skipped: {e}")
+    # Blog = Beehiiv web posts (free, already handled when you send "Email and web")
+    print("📝 Blog → Beehiiv web posts handle this automatically when you send! ✅")
 
     print("📌 Posting to Pinterest...")
     try:
@@ -468,11 +465,71 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"   ⚠️  Marketing pack skipped: {e}")
 
+    # Save daily checklist
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    checklist = f"""
+THE SMART DOLLAR — DAILY CHECKLIST — {datetime.now().strftime("%Y-%m-%d")}
+================================================================
+
+TODAY: {issue['subject']}
+TITLE for Beehiiv:    {issue['subject']}
+SUBTITLE for Beehiiv: {issue['headline']}
+
+DONE AUTOMATICALLY:
+  Newsletter HTML saved to GitHub/newsletters/
+  Pinterest pin posted
+  Marketing content generated
+
+YOUR 10-MINUTE DAILY TASKS:
+
+STEP 1 - SEND IN BEEHIIV (5 min):
+  1. GitHub repo -> newsletters/ -> open newsletter_{datetime.now().strftime("%Y-%m-%d")}.html -> Raw -> Copy All
+  2. app.beehiiv.com -> New Post
+  3. Title: {issue['subject']}
+  4. Subtitle: {issue['headline']}
+  5. Body: type "/" -> HTML block -> paste
+  6. Next -> Audience: Email and web, All subscribers
+  7. Next -> Email: check subject line
+  8. Next -> Web: Popup capture ON, Show thumbnail ON, Feature post ON
+  9. Add meta description: "Daily finance tips for Swiss investors. AI tools, investing strategies, money moves. Free newsletter."
+  10. Upload your Canva thumbnail (update title text first!)
+  11. Next -> Review -> SEND!
+
+STEP 2 - CANVA THUMBNAIL (2 min):
+  Open your saved template -> change title to: {issue['subject']} -> Download PNG -> upload to Beehiiv
+
+STEP 3 - REDDIT (2 min):
+  Download marketing pack artifact -> copy Reddit comment -> post in r/eupersonalfinance or r/Switzerland
+
+STEP 4 - LINKEDIN (1 min):
+  Copy LinkedIn section from marketing pack -> post
+
+STEP 5 - TWITTER/X (1 min):
+  Copy Twitter thread from marketing pack -> post
+
+YOUR AFFILIATE LINKS:
+  Revolut:      https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+  Coinbase:     https://coinbase.com/join/RSRGFEP?src=ios-link
+  eToro:        https://etoro.tw/4vZbEOP
+  NordVPN:      https://refer-nordvpn.com/BrJJQSzaIsM
+  Neon(SDB98A): http://onelink.to/neon
+  Yuh(uzwi60):  https://www.yuh.com/download
+  Binance:      https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+  Alpian(PCXTNB): https://onelink.to/download-alpian
+  Wise:         https://wise.com/invite/mic/f238f6e
+  GetYourGuide: https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ads unlock -> passive income!
+"""
+    with open(f"DAILY_CHECKLIST_{today_str}.txt", "w", encoding="utf-8") as f:
+        f.write(checklist)
+
     print("\n🎉 ALL DONE!")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("✅ Newsletter → saved to GitHub/newsletters/")
-    print("✅ Blog post  → published to GitHub Pages")
-    print("✅ Pinterest  → auto-posted")
-    print("✅ Marketing  → download artifact in Actions")
+    print("✅ Newsletter HTML → GitHub/newsletters/")
+    print("✅ Pinterest → auto-posted")
+    print("✅ Daily checklist → download from Actions artifacts")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"\n👉 To send newsletter: open GitHub → newsletters folder → copy HTML → paste into Beehiiv")
+    print(f"\n📋 TITLE: {issue['subject']}")
+    print(f"📋 SUBTITLE: {issue['headline']}")
