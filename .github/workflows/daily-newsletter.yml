@@ -37,10 +37,12 @@ jobs:
           PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
         run: python newsletter.py
 
-      - name: Save marketing pack as artifact
+      - name: Save daily files as artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: marketing-pack-${{ github.run_number }}
-          path: marketing_pack_*.txt
+          name: daily-pack-${{ github.run_number }}
+          path: |
+            marketing_pack_*.txt
+            DAILY_CHECKLIST_*.txt
           retention-days: 30
