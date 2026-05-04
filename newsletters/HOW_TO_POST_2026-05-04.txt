@@ -1,0 +1,20 @@
+
+==================================================
+THE SMART DOLLAR — 2026-05-04
+==================================================
+
+STEP 1 — Go to app.beehiiv.com → click "+ New Post"
+
+STEP 2 — TITLE (paste this in the title field):
+Swiss franc hits 2-year high – what it means for you
+
+STEP 3 — SUBTITLE (paste this in the subtitle field):
+The CHF is flexing – here's how to make it work for you
+
+STEP 4 — BODY (paste the HTML):
+• Open the .html file in this folder
+• Click "Raw" button → Select All → Copy
+• In Beehiiv editor: click "/" → search "HTML block" → paste
+
+STEP 5 — Click "Next" → "Send" → Done! 🎉
+==================================================
