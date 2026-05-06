@@ -2,8 +2,8 @@ name: Daily Smart Dollar Automation
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 9:00 AM Switzerland time
-  workflow_dispatch:
+    - cron: '0 8 * * *'  # 9:00 AM Switzerland time daily
+  workflow_dispatch:      # Manual trigger for testing
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -12,7 +12,7 @@ jobs:
   send-newsletter:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to save files to repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -28,21 +28,23 @@ jobs:
 
       - name: Run full automation
         env:
-          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
-          BEEHIIV_API_KEY:    ${{ secrets.BEEHIIV_API_KEY }}
-          BEEHIIV_PUB_ID:     ${{ secrets.BEEHIIV_PUB_ID }}
-          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
-          REPO_NAME:          ${{ github.repository }}
-          PINTEREST_TOKEN:    ${{ secrets.PINTEREST_TOKEN }}
-          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+          ANTHROPIC_API_KEY:       ${{ secrets.ANTHROPIC_API_KEY }}
+          BEEHIIV_API_KEY:         ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUB_ID:          ${{ secrets.BEEHIIV_PUB_ID }}
+          GITHUB_TOKEN:            ${{ secrets.GITHUB_TOKEN }}
+          REPO_NAME:               ${{ github.repository }}
+          PINTEREST_TOKEN:         ${{ secrets.PINTEREST_TOKEN }}
+          PINTEREST_BOARD_ID:      ${{ secrets.PINTEREST_BOARD_ID }}
+          TWITTER_API_KEY:         ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET:      ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN:    ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET:   ${{ secrets.TWITTER_ACCESS_SECRET }}
         run: python newsletter.py
 
-      - name: Save daily files as artifact
+      - name: Upload daily pack as artifact
         uses: actions/upload-artifact@v4
         if: always()
         with:
           name: daily-pack-${{ github.run_number }}
-          path: |
-            marketing_pack_*.txt
-            DAILY_CHECKLIST_*.txt
+          path: DAILY_PACK_*.txt
           retention-days: 30
