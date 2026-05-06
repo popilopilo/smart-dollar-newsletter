@@ -1,0 +1,20 @@
+
+==================================================
+THE SMART DOLLAR — 2026-05-06
+==================================================
+
+STEP 1 — Go to app.beehiiv.com → click "+ New Post"
+
+STEP 2 — TITLE (paste this in the title field):
+Swiss inflation drops to 0.8% – what it means for you
+
+STEP 3 — SUBTITLE (paste this in the subtitle field):
+Your Money in a Low-Inflation Switzerland
+
+STEP 4 — BODY (paste the HTML):
+• Open the .html file in this folder
+• Click "Raw" button → Select All → Copy
+• In Beehiiv editor: click "/" → search "HTML block" → paste
+
+STEP 5 — Click "Next" → "Send" → Done! 🎉
+==================================================
