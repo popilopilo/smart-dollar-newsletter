@@ -23,8 +23,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install anthropic requests
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Install Python dependencies
+        run: pip install anthropic requests Pillow numpy --break-system-packages
 
       - name: Run full automation
         env:
@@ -39,6 +44,8 @@ jobs:
           TWITTER_API_SECRET:      ${{ secrets.TWITTER_API_SECRET }}
           TWITTER_ACCESS_TOKEN:    ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET:   ${{ secrets.TWITTER_ACCESS_SECRET }}
+          ELEVENLABS_API_KEY:      ${{ secrets.ELEVENLABS_API_KEY }}
+          PEXELS_API_KEY:          ${{ secrets.PEXELS_API_KEY }}
         run: python newsletter.py
 
       - name: Upload daily pack as artifact
@@ -48,3 +55,11 @@ jobs:
           name: daily-pack-${{ github.run_number }}
           path: DAILY_PACK_*.txt
           retention-days: 30
+
+      - name: Upload video as artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: video-${{ github.run_number }}
+          path: /tmp/smart_dollar_*.mp4
+          retention-days: 7
