@@ -1,0 +1,136 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-09
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB holds rates steady—what it means for your wall
+  SUBTITLE: Swiss Franc Strength Creates Opportunities for Smart Sa
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-09.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB holds rates steady—what it means for your wallet
+4. SUBTITLE: Swiss Franc Strength Creates Opportunities for Smart Savers
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Strong Swiss Franc Could Be Your Secret Advantage
+   2. Act Now: Swiss Franc Surge Won't Last Forever
+   3. CHF Up 8% YTD—Here's How Smart Savers Are Responding
+   4. 3 Ways to Profit From the Swiss Franc's Historic Strength
+   5. Is Your Savings Strategy Ready for a Stronger Franc?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB holds rates steady—discover Swiss franc investing tips for cross-border workers and what this means for your savings. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/ExpatFinance | r/r/swissfinance
+SEARCH FOR: cross-border worker currency exchange CHF EUR
+Find a post -> Reply with this:
+
+--- COPY ---
+Fellow cross-border worker here (France -> Geneva). The 2-3% bank spreads absolutely killed me my first year - we're talking €1,500+ lost annually on a decent salary. What worked for me: I switched to Wise for most conversions, their rates are basically mid-market with tiny transparent fees. Also started keeping a CHF buffer account for months when the rate dips badly. Some employers offer split payments too (part CHF, part EUR) which gives you more flexibility. Don't sleep on timing either - I check rates Monday mornings, tends to be slightly better after weekend gaps close. The savings add up fast when you're moving thousands monthly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+💰 Swiss Franc Strength Creates Opportunities for Smart Savers
+
+If you're among the 370,000+ cross-border workers in Switzerland, you're likely sitting on a golden opportunity right now! 🇨🇭✨
+
+Here's what smart savers are doing:
+
+💵 Converting CHF earnings at peak rates to maximize purchasing power back home
+
+📊 Timing transfers strategically using currency alerts to catch the best exchange windows
+
+🏦 Diversifying savings across currencies to protect wealth and reduce long-term risk
+
+The strong franc won't last forever — are you making the most of it while it does?
+
+👉 Link in bio to subscribe FREE and get weekly insights on maximizing your cross-border income!
+
+#SwissFranc #CrossBorderWorkers #Frontaliers #Grenzgänger #SwitzerlandJobs #CurrencyExchange #SmartSaving #ExpatsInSwitzerland #CHF #MoneyTips #FinancialFreedom #SwissLife #WorkInSwitzerland #ExpatFinance #SavingMoney #WealthBuilding #CurrencyTrading #PersonalFinance #MoneyMatters #FinanceTips
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: How can cross-border workers in Switzerland save money on currency exchange?
+
+--- COPY ---
+If you're among the 370,000+ cross-border workers in Switzerland, you're likely bleeding cash on poor exchange rates. Traditional banks charge spreads of 2-3%, meaning a €5,000 salary conversion could cost you €100-150 monthly in hidden fees alone.
+
+After 8 years managing CHF exposure, here's what actually works:
+
+**Use specialized FX services.** Wise, Revolut, or Interactive Brokers offer spreads of 0.3-0.5%. The savings compound dramatically over time.
+
+**Time your conversions strategically.** The EUR/CHF pair typically sees volatility around SNB announcements and EU economic releases. I personally convert larger amounts when the franc weakens temporarily.
+
+**Consider a multi-currency approach.** Keep operational funds in CHF, but don't convert everything immediately. Having both EUR and CHF accounts gives you flexibility to convert when rates favor you.
+
+**Don't ignore the 3rd pillar.** If you're paying Swiss taxes, maximizing your 3a contributions in CHF-denominated funds reduces taxable income while building franc-based wealth.
+
+**Watch SNB policy closely.** The central bank's intervention history means sudden franc movements aren't uncommon. Stay informed.
+
+The Swiss system rewards those who understand its nuances. Most frontaliers leave thousands on the table annually.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Hey! If you're one of the 370,000+ cross-border workers in Switzerland, the strong Swiss Franc could actually work in your favor right now. Check out how smart savers are making the most of it 👉 https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
