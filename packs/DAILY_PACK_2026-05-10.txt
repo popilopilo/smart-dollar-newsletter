@@ -1,0 +1,132 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-10
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB rate decision looms + AI reshapes Swiss bankin
+  SUBTITLE: The Franc's Next Move Could Hit Your Wallet
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-10.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB rate decision looms + AI reshapes Swiss banking
+4. SUBTITLE: The Franc's Next Move Could Hit Your Wallet
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What the Franc Knows That You Don't
+   2. Act Now: Franc Volatility Incoming
+   3. CHF/EUR Set to Shift 3% by Month-End
+   4. 5 Franc Signals Smart Investors Watch
+   5. Is Your Portfolio Ready for the Franc?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision and AI banking transformation impact your wallet. Discover Swiss savings tips 2026 as Migros and Coop cut 1,200+ prices. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/Switzerland | r/r/eupersonalfinance | r/r/askswitzerland | r/r/frugal
+SEARCH FOR: Switzerland grocery prices 2025 savings tips
+Find a post -> Reply with this:
+
+--- COPY ---
+Finally some good news for our wallets! Migros and Coop have quietly dropped prices on over 1,200 products since April - we're talking 8% off butter, 12% off pasta. The strong franc is helping too since imports are cheaper now. I've genuinely noticed my weekly shop costing less without changing what I buy. Pro tip: compare both stores' apps before your big shop, the discounts vary quite a bit by category. If you're also looking to cut banking fees, Neon's still solid for avoiding those sneaky monthly charges that add up. Every little bit helps in this country lol. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+The Franc's Next Move Could Hit Your Wallet 💰🇨🇭
+
+Migros and Coop have quietly cut prices on 1,200+ products since April, with staple items seeing the biggest drops.
+
+Here's what you need to know:
+
+📉 The strong Swiss franc is forcing retailers to pass savings onto consumers – but how long will it last?
+
+🛒 From coffee to cleaning supplies, everyday essentials are cheaper NOW – smart shoppers are stocking up before currency shifts reverse the trend
+
+💡 Understanding franc movements isn't just for traders – it directly impacts your grocery bill, travel costs, and purchasing power
+
+Don't get caught off guard by the next currency swing.
+
+👉 Link in bio to subscribe FREE and stay ahead of the moves that matter to your money.
+
+#SwissFranc #Switzerland #SwissEconomy #Migros #Coop #SwissShopping #CurrencyNews #PersonalFinance #MoneySaving #SwissLife #FinanceTips #Inflation #GroceryShopping #SwissNews #ExchangeRate #MoneyMatters #FinancialLiteracy #Zurich #ExpatsInSwitzerland #SmartShopping
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What are the best ways to save money on groceries in Switzerland 2026?
+
+--- COPY ---
+Here's what most expats and even longtime residents don't realize: Swiss grocery shopping has actually become *cheaper* in 2025-2026, despite what the general cost-of-living complaints suggest.
+
+Migros and Coop have quietly slashed prices on over 1,200 products since April. We're talking meaningful reductions—butter dropped 8%, pasta is down 12%. These aren't promotional gimmicks; they're permanent price adjustments driven by competitive pressure and a stubbornly strong franc making imports cheaper.
+
+My practical tips after 15 years here:
+
+**Stack the savings.** Combine these lower base prices with Cumulus/Supercard points, weekly Aktionen, and the -50% evening stickers on expiring items. I regularly save 25-30% on my weekly shop.
+
+**Cross-border strategically.** With the franc this strong, Constance, Divonne, or Lörrach trips yield even better value on alcohol, meat, and cleaning products.
+
+**Don't sleep on Denner and Aldi.** Their quality has improved dramatically, and prices sit 15-20% below the big two on comparable items.
+
+The irony? Switzerland is getting relatively *more* affordable while neighboring eurozone countries face persistent inflation. Time to adjust your assumptions.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Hey! Did you know the Swiss franc is making moves that could actually save you money? Migros and Coop have already quietly dropped prices on over 1,200 products since April. Check out what's really going on here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
