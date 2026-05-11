@@ -1,0 +1,126 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-11
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    Swiss inflation drops to 0.6% – what it means for 
+  SUBTITLE: SNB Rate Cut Incoming? Smart Moves to Make Now
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-11.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    Swiss inflation drops to 0.6% – what it means for your wallet
+4. SUBTITLE: SNB Rate Cut Incoming? Smart Moves to Make Now
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What Does an SNB Rate Cut Mean for Your Portfolio?
+   2. Act Now: SNB Rate Decision Could Shift Markets Thursday
+   3. SNB Expected to Cut 25bps—Here's How to Position
+   4. 3 Moves to Make Before the SNB Rate Announcement
+   5. Is Your Portfolio Ready for Lower Swiss Rates?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss inflation drops to 0.6% in April 2025—learn how the falling Swiss inflation rate 2026 outlook impacts your savings and spending. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwissPersonalFinance | r/r/dividendsEU
+SEARCH FOR: Swiss inflation 2026 SNB interest rates
+Find a post -> Reply with this:
+
+--- COPY ---
+Wild times for Swiss monetary policy. April CPI at 0.6% is crazy low - haven't seen that since early 2021. SNB cutting again in June seems like a done deal at this point, which would bring us to 0.25%. For anyone with cash sitting in Swiss savings accounts, the returns are about to get even more depressing. If you're planning finances for 2026, factor in that we might be looking at near-zero or even negative rate territory again depending on how inflation trends. Might be worth exploring alternatives to traditional savings. Been tracking this stuff closely in my newsletter if anyone wants the regular updates. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🚨 April's Swiss CPI came in at just 0.6%, the lowest since early 2021. The SNB is now under pressure to cut rates again—here's what smart investors are doing:
+
+📌 Reassess your CHF exposure – A weaker franc could be on the horizon, impacting portfolios and cross-border investments
+
+📌 Lock in fixed-rate financing – If you're considering property or business loans, favorable terms may not last forever
+
+📌 Explore yield alternatives – With Swiss rates potentially dropping further, it's time to diversify into assets that can outperform low-yield environments
+
+💡 Stay ahead of central bank moves, not behind them.
+
+🔗 Link in bio to subscribe FREE for weekly market insights and actionable strategies.
+
+#SNB #SwissNationalBank #InterestRates #RateCut #SwissEconomy #CPI #Inflation #SwissFranc #CHF #ForexTrading #WealthManagement #InvestingTips #FinancialPlanning #MarketUpdate #EconomicNews #SwissFinance #MonetaryPolicy #SmartInvesting #PortfolioStrategy #FinanceLiteracy
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What is the predicted Swiss inflation rate for 2026?
+
+--- COPY ---
+What's happening with Swiss inflation is quite remarkable, and honestly, it's making financial planning interesting for those of us living here.
+
+April's CPI reading of just 0.6% caught many by surprise – we haven't seen inflation this low since early 2021. For context, while much of Europe struggled with 5-10% inflation in recent years, Switzerland barely flinched above 3%.
+
+Looking ahead to 2026, most projections suggest Swiss inflation will remain subdued, likely hovering between 0.5% and 1.5%. The SNB has consistently demonstrated its commitment to price stability, and current trends support this continuing.
+
+The immediate consequence? The SNB is almost certainly cutting rates again in June, potentially bringing the policy rate down to just 0.25%. This has real implications for your money – savings accounts are already offering minimal returns, and this will only intensify.
+
+For Swiss residents, this environment creates a dilemma: cash loses purchasing power slowly but surely, yet traditional savings yield almost nothing. It's pushing more people toward diversified investment strategies.
+
+The franc remains strong, inflation stays tame, but your savings strategy needs rethinking in this ultra-low rate environment.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+SNB rate cut incoming? 👀 April's Swiss CPI just dropped to 0.6% - lowest since early 2021. Here's what smart money is doing right now → https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
