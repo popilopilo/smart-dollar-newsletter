@@ -1,0 +1,133 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-14
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    Swiss inflation drops to 0.6% – what it means for 
+  SUBTITLE: SNB Rate Cut Incoming? Smart Moves to Make Now
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-14.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    Swiss inflation drops to 0.6% – what it means for your wallet
+4. SUBTITLE: SNB Rate Cut Incoming? Smart Moves to Make Now
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What Does an SNB Rate Cut Mean for Your Portfolio?
+   2. Act Now: SNB Rate Decision Could Shift Markets
+   3. SNB Eyes 25bps Cut – 3 Moves to Position Today
+   4. 5 Smart Strategies Before the Next SNB Announcement
+   5. Is Your Portfolio Ready for an SNB Rate Cut?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss inflation at 0.6% signals more rate cuts ahead. Learn how Swiss interest rates 2026 will impact your savings and finances. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/switzerlandfinance | r/r/Finanzen
+SEARCH FOR: Swiss interest rates 2026 SNB savings bonds
+Find a post -> Reply with this:
+
+--- COPY ---
+Yeah the SNB cutting to 0.25% (probably lower after June 19th) is basically killing savings accounts here. My Neon account went from decent to basically nothing. If you're looking at alternatives, medium-term bond ETFs are giving around 1.2-1.8% right now, which isn't amazing but beats watching your savings erode. Just keep in mind these yields probably won't last if rates keep dropping. I've been diversifying a bit more into global fixed income to hedge against the Swiss rate environment. Anyone else feeling stuck between terrible savings rates and not wanting equity risk?
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🚨 SNB Rate Cut Incoming? Here's What Smart Money Is Doing NOW
+
+With the SNB policy rate sitting at 0.25% and another cut expected June 19th, your savings account is about to feel the squeeze even more. 📉
+
+Here's how to stay ahead:
+
+💰 Lock in current rates NOW — Fixed-term deposits and bonds won't offer these returns for long
+
+🏠 Consider your mortgage strategy — Variable rates could become more attractive, but timing is everything
+
+📈 Diversify beyond cash — Low rates push smart investors toward dividend stocks, ETFs & real assets
+
+Don't let inflation silently eat your wealth while rates drop. The window to act is closing.
+
+👉 Link in bio to subscribe FREE for weekly Swiss finance insights & market updates!
+
+#SNB #SwissNationalBank #InterestRates #RateCut #SwissFinance #PersonalFinance #WealthBuilding #InvestingTips #FinancialFreedom #MoneyMoves #SwissEconomy #SavingsAccount #MortgageTips #FinanceTips #MoneyMatters #InvestSmart #WealthManagement #FinancialPlanning #SwissBanking #EconomicNews
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What will Swiss interest rates be in 2026
+
+--- COPY ---
+The Swiss interest rate environment in 2026 is looking increasingly challenging for savers. With the SNB policy rate currently at 0.25% and another cut widely anticipated on June 19th, we're heading toward near-zero or potentially negative territory again.
+
+As someone managing finances here in Switzerland, I've been watching savings account yields evaporate in real-time. What was 1.5% a year ago is now often 0.5% or less at major banks like UBS and PostFinance.
+
+Medium-term bonds and fixed-income ETFs still offer 1.2-1.8% yields, but here's the catch – these rates won't last. If you want to lock in current yields, you need to act before the June cut. Once the SNB moves, bond prices will adjust and new issuances will reflect lower rates.
+
+Practical options worth considering:
+- Kassenobligationen (medium-term notes) with 3-5 year terms
+- Swiss government bond ETFs for liquidity
+- Pillar 3a accounts, which still offer slightly better rates due to tax advantages
+
+The frank remains strong, which limits inflation concerns, but yield-seeking Swiss investors may need to look beyond traditional savings vehicles or accept that capital preservation, not growth, is the realistic goal.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+SNB rate cut coming June 19th? 👀 Your savings account is about to get even sadder. Here's what smart Swiss investors are doing right now → https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
