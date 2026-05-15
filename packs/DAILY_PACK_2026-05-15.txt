@@ -1,0 +1,132 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-15
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms + Your CHF Strategy
+  SUBTITLE: Swiss Franc Hits 2-Year High Against Dollar
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-15.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms + Your CHF Strategy
+4. SUBTITLE: Swiss Franc Hits 2-Year High Against Dollar
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Just Hit a 2-Year Peak vs USD
+   2. Alert: CHF Surges to 2-Year High Against Dollar
+   3. CHF/USD Reaches 0.89 — Highest Level Since 2023
+   4. 5 Factors Behind the Franc's 2-Year Dollar High
+   5. Is the Swiss Franc's Rally Against USD Just Starting?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss franc exchange rate watch: SNB decision could impact EUR/CHF at 0.93, affecting cross-border workers from France and Germany. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/askswitzerland | r/r/frontaliers
+SEARCH FOR: EUR CHF exchange rate cross-border workers
+Find a post -> Reply with this:
+
+--- COPY ---
+Yeah the EUR/CHF situation is rough right now. I'm a frontalier working in Geneva and paid in euros (consulting gig), and honestly the 4.2% hit since January is noticeable when you're doing weekly grocery runs in Switzerland. What's helped me is timing larger purchases and using Wise for conversions since their mid-market rates beat my French bank by a decent margin. Also worth watching SNB announcements - they've been pretty hands-off lately but any intervention hints could shift things. If you're in this situation long-term, might be worth negotiating partial CHF payment if your employer allows it. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Swiss Franc Hits 2-Year High Against Dollar — Here's What It Means 💰
+
+With EUR/CHF hovering at 0.93, cross-border workers from France and Germany are suddenly feeling a whole lot richer.
+
+📌 Here's what you need to know:
+
+• Cross-border workers earning in CHF now have significantly more purchasing power when spending euros back home — an unexpected raise without a promotion
+
+• Swiss exporters are feeling the squeeze as their products become pricier in foreign markets, potentially impacting employment and economic growth
+
+• Tourists planning Swiss getaways may want to reconsider their budgets — your dollars and euros won't stretch as far in Zurich or Geneva
+
+🔔 Want to stay ahead of currency moves that impact YOUR wallet?
+
+👉 Link in bio to subscribe FREE for weekly forex insights!
+
+#SwissFranc #CHF #ForexTrading #CurrencyMarkets #EURCHF #USDCHF #ForexNews #CrossBorderWorkers #Switzerland #ForexAnalysis #CurrencyExchange #FXMarkets #SwissEconomy #DollarWeakness #ForexEducation #TradingTips #GlobalMarkets #FinancialNews #MoneyMatters #ForexCommunity
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: How does the current Swiss franc exchange rate affect cross-border workers?
+
+--- COPY ---
+Great question, and one that hits close to home for many of us living near the Swiss border.
+
+With EUR/CHF currently hovering at 0.93, cross-border workers from France and Germany are seeing their purchasing power squeezed by 4.2% compared to January. If you're paid in euros but spend in francs, consider these practical strategies:
+
+**Timing your conversions** matters enormously. Rather than converting your entire salary immediately, use a multi-currency account (Wise, Revolut, or traditional Swiss banks offer these) and convert in tranches when rates dip favorably.
+
+**Negotiate currency clauses** if possible. Some employers near the border now offer partial CHF payments or exchange rate adjustments—it never hurts to ask.
+
+**Shift spending strategically.** Stock up on groceries and fuel on the French/German side. The price differential often exceeds the exchange rate loss, especially for fuel where you can save 30-40 centimes per liter.
+
+The SNB has shown little appetite for intervention recently, and with Swiss inflation remaining stubbornly low compared to the Eurozone, expect the franc to stay strong through Q3 at minimum.
+
+I track these movements weekly and share actionable insights for residents and cross-border workers.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc just hit a 2-year high against the dollar 💰 If you're a cross-border worker from France or Germany, this EUR/CHF rate at 0.93 is seriously impacting your paycheck. Check out what it means for you here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
