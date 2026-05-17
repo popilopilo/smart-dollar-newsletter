@@ -1,0 +1,130 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-17
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB holds rates steady—what it means for your wall
+  SUBTITLE: Swiss Franc Strength: Friend or Foe?
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-17.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB holds rates steady—what it means for your wallet
+4. SUBTITLE: Swiss Franc Strength: Friend or Foe?
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What's Really Behind the Swiss Franc's Surge?
+   2. Act Now: CHF Volatility Is Reshaping Portfolios
+   3. CHF Up 8% YTD: What It Means for Your Strategy
+   4. 3 Ways the Strong Franc Impacts Swiss Investors
+   5. Is the Mighty Swiss Franc Helping or Hurting You?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision impacts Swiss franc euro exchange rates—learn how the stronger CHF boosts your travel budget this summer. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/askswitzerland | r/r/TravelHacks
+SEARCH FOR: CHF EUR exchange rate travel
+Find a post -> Reply with this:
+
+--- COPY ---
+Honestly this is the best time in a while to be spending euros if you're earning in CHF. That 8.7% jump is no joke - basically a free 10% off your whole vacation. I've been watching the rates for a few months and finally pulled the trigger on exchanging a chunk for my August trip to Portugal. Revolut actually gives pretty decent rates for this if you're doing it during market hours, way better than airport exchanges obviously. Just don't wait too long thinking it'll keep climbing, currencies are unpredictable and this could easily swing back. More details on timing and rate trends here - Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Swiss Franc Strength: Friend or Foe? 💰🇨🇭
+
+With the CHF buying 8.7% more euros than this time last year, your summer trip to Europe just got a whole lot cheaper! But is this currency flex all good news? Let's break it down 👇
+
+💎 WINNER: Your vacation budget stretches further—more gelato, more memories, less guilt!
+
+📉 WATCH OUT: Swiss exporters are feeling the squeeze as their products become pricier abroad, potentially impacting jobs and investments.
+
+🧠 SMART MOVE: Lock in favorable rates now for upcoming travel or consider diversifying your savings strategy while the franc flexes.
+
+Whether the strong CHF is your friend or foe depends on YOUR financial goals. Stay informed, stay ahead! 🚀
+
+👉 Link in bio to subscribe FREE and never miss crucial currency insights that affect YOUR wallet!
+
+#SwissFranc #CHF #CurrencyTrading #ForexTrading #SwissEconomy #EuroExchange #TravelEurope #MoneyMatters #FinancialLiteracy #InvestSmart #CurrencyExchange #SwissFinance #ForexNews #WealthBuilding #MoneyTips #EconomicNews #TravelBudget #FinanceTips #GlobalEconomy #SmartMoney
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What is the current Swiss franc to euro exchange rate and is it a good time to exchange?
+
+--- COPY ---
+Having lived in Switzerland for over a decade and watched currency fluctuations closely, I can tell you this is genuinely one of the better moments we've seen for CHF holders traveling to the eurozone.
+
+The Swiss franc has strengthened approximately 8.7% against the euro compared to last year, which translates to meaningful savings on your holiday budget. A trip that would have cost you 2,000 CHF last summer effectively costs you around 1,840 CHF now in purchasing power terms.
+
+My practical advice as someone who regularly crosses into Italy and France:
+
+- **Avoid airport exchange counters** – their margins are brutal, often 5-8% worse than market rates
+- **Use a multi-currency card** like Wise or Revolut for close-to-interbank rates
+- **Consider exchanging a portion now** if you have confirmed travel plans – currency markets can reverse quickly
+
+The SNB hasn't shown aggressive intervention intentions lately, but geopolitical events or ECB policy shifts could change the landscape rapidly. The franc tends to strengthen during uncertainty, but nothing is guaranteed.
+
+For weekly updates on CHF movements and practical expat finance tips, I cover this regularly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc Strength: Friend or Foe? 💶 With the CHF buying 8.7% more euros than this time last year, your summer trip just got a nice little discount. Check out what this means for your wallet 👉 https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
