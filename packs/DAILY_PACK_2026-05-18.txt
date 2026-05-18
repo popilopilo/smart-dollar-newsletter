@@ -1,0 +1,134 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-18
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means For Your CH
+  SUBTITLE: Swiss Savers Face a Crossroads This June
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-18.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means For Your CHF
+4. SUBTITLE: Swiss Savers Face a Crossroads This June
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What June's Decision Means for Swiss Savers
+   2. Act Now: Critical Deadline for Swiss Savers This June
+   3. Swiss Interest Rates Shift June 15—Is Your Portfolio Ready?
+   4. 3 Moves Swiss Savers Must Consider Before June
+   5. Will Your Savings Survive Switzerland's June Pivot?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate cut savings impact your Swiss franc holdings. Learn what the expected 25 basis point reduction means for your money. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandIsFake | r/r/Finanzen
+SEARCH FOR: SNB rate cut savings account Switzerland 2024
+Find a post -> Reply with this:
+
+--- COPY ---
+Yeah the SNB cut is basically a done deal at this point and savings rates are going to follow. If you're sitting on CHF cash, now's probably the time to lock something in before banks adjust their offers. Medium-term accounts are still around 1.25% APY but I wouldn't expect that to last past the next meeting. Neon's been decent for everyday banking but for actual savings yield you might want to compare the cantonal banks or platforms like Alpian. Not financial advice obviously, just what I've been looking at myself. Been tracking Swiss rate moves in my newsletter if anyone wants updates on this stuff.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Swiss Savers Face a Crossroads This June 🇨🇭💰
+
+With the SNB expected to trim rates by another 25 basis points next month, Swiss savers are at a pivotal moment.
+
+Here's what you need to know:
+
+🔹 Lower interest rates mean reduced returns on traditional savings accounts — your money works less hard for you
+
+🔹 Now is the time to explore alternative investment strategies to protect and grow your wealth
+
+🔹 Understanding the SNB's monetary policy shifts can help you make smarter financial decisions before the changes hit
+
+Don't let your savings lose value — stay ahead of the curve! 📈
+
+👉 Link in bio to subscribe FREE and get the latest financial insights delivered straight to your inbox!
+
+#SwissFinance #SNB #SwissNationalBank #InterestRates #SavingsMoney #WealthManagement #FinancialPlanning #InvestSmart #MoneyMatters #SwissEconomy #PersonalFinance #FinanceTips #MoneyManagement #InvestingTips #FinancialFreedom #SwissBanking #EconomicNews #SavingsGoals #WealthBuilding #SmartMoney
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: How should Swiss savers respond to SNB rate cuts?
+
+--- COPY ---
+As a Swiss resident who's been tracking SNB policy closely, I can tell you the window for decent savings rates is closing fast.
+
+The SNB's anticipated 25 basis point cut next month will push already modest yields even lower. Right now, you can still lock in around 1.25% APY on medium-term CHF savings accounts - not exciting by global standards, but remarkable for Switzerland where negative rates were our reality just two years ago.
+
+Here's what I'm advising friends and family:
+
+**Act now on fixed-term deposits.** Banks like Migros Bank, CKW, and some cantonal banks still offer competitive rates on 12-24 month terms. Once the cut happens, these offers will quietly disappear.
+
+**Consider staggered maturities.** Don't lock everything at once. Spread deposits across 6, 12, and 18-month terms to maintain some flexibility.
+
+**Don't overlook 3a accounts.** Some pillar 3a providers still offer 1%+ on cash portions, with the added tax deduction benefit.
+
+The reality? Swiss savers have always faced an uphill battle against inflation. These current rates barely keep pace, and they're about to get worse. If you've been procrastinating on optimizing your cash holdings, consider this your final reminder.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Hey! Swiss savers are at a crossroads this June 🇨🇭 With the SNB likely cutting rates by another 25 bps next month, it might be time to rethink where you're parking your francs. Check out the full scoop here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
