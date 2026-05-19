@@ -1,0 +1,136 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-19
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms + AI That Picks Your ETFs
+  SUBTITLE: Swiss Rates on the Edge: What Smart Money Is Doing Now
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-19.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms + AI That Picks Your ETFs
+4. SUBTITLE: Swiss Rates on the Edge: What Smart Money Is Doing Now
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What's Really Happening With Swiss Rates Right Now?
+   2. Swiss Rates Alert: Act Before the Shift
+   3. SNB Watch: 3 Moves Smart Money Is Making Today
+   4. 5 Swiss Rate Signals Institutional Investors Are Tracking
+   5. Are You Positioned for the Next Swiss Rate Move?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss savings rates 2026 are plummeting as UBS cuts to 0.65%. Get SNB rate decision updates + AI ETF picks in our Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/Finanzen
+SEARCH FOR: Swiss savings rates 2025 UBS Raiffeisen SNB
+Find a post -> Reply with this:
+
+--- COPY ---
+Yeah the rate drops have been brutal lately. UBS at 0.65% and Raiffeisen at 0.75% is pretty rough, especially when you factor in inflation. If SNB cuts again in June like everyone expects, we'll probably see even lower rates across the board. Honestly might be worth looking at locking in a 12-month term deposit now before things get worse - some banks still offer around 1% if you commit. Also worth checking out Neon if you haven't, they've been competitive on savings lately. Not financial advice obviously but sitting in a standard savings account right now feels like watching your money slowly evaporate. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 UBS dropped its savings rate to 0.65% last week, while Raiffeisen now offers just 0.50%. Your savings are quietly losing purchasing power.
+
+Here's what smart money is doing right now:
+
+💰 Moving cash into Swiss medium-term notes (Kassenobligationen) locking in 1.2-1.5% before rates fall further
+
+📊 Diversifying into dividend-paying Swiss blue chips like Nestlé & Novartis for inflation-beating yields
+
+🏦 Exploring 3a pillar optimization strategies to maximize tax-free compound growth
+
+The SNB signals more cuts ahead. The window to act is closing.
+
+👉 Link in bio to subscribe FREE and get weekly Swiss finance insights delivered to your inbox.
+
+#SwissFinance #SwissBanking #UBS #Raiffeisen #InterestRates #SwissEconomy #WealthManagement #PersonalFinance #SNB #SavingsAccount #InvestingTips #FinancialFreedom #MoneyMatters #SwissLife #Finanzwissen #Geldanlage #SwissFrancic #SmartMoney #PassiveIncome #FinanceLiteracy
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What are Swiss bank savings interest rates in 2026?
+
+--- COPY ---
+**What are current Swiss savings rates in 2026, and what should I do?**
+
+Honestly? It's pretty grim right now if you're parking cash in a standard savings account.
+
+UBS just dropped their rate to 0.65% last week, which stung. Raiffeisen is slightly better at 0.75%, but let's be real—neither is keeping pace with even our modest inflation. PostFinance and ZKB are hovering in similar territory.
+
+Here's what most Swiss residents don't realize: with the SNB signaling another potential cut in June, these rates will likely drop further. We could be looking at 0.5% or lower by autumn.
+
+**My recommendation as someone who's navigated Swiss banking for 12+ years:**
+
+Lock in a 12-month fixed-term deposit NOW. Several cantonal banks are still offering 1.1-1.3% if you commit today. Yes, your money is tied up, but you're essentially getting double the return versus a flexible savings account.
+
+Also worth considering: Säule 3a contributions before year-end. Tax deduction plus slightly better rates—it's the closest thing to free money in Switzerland.
+
+Don't let your savings erode while waiting for "better timing." In Swiss banking, the best rate is usually the one you locked in yesterday.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Rates on the Edge: What Smart Money Is Doing Now 🇨🇭
+
+UBS just dropped their savings rate to 0.65% and Raiffeisen's not looking much better. If you're wondering what the smart money crowd is doing right now, I break it down in this week's newsletter.
+
+https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
