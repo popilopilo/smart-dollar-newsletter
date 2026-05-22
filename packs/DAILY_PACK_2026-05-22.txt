@@ -1,0 +1,129 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-22
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision: What It Means for Your Wallet
+  SUBTITLE: Swiss Franc Strengthens as Summer Travel Season Heats U
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-22.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision: What It Means for Your Wallet
+4. SUBTITLE: Swiss Franc Strengthens as Summer Travel Season Heats Up
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Is Surging This Summer
+   2. Alert: CHF Rallies as Travel Demand Spikes Now
+   3. CHF Hits 3-Month High Amid Record Tourism Flows
+   4. 5 Factors Driving the Swiss Franc's Summer Rally
+   5. Is Summer Travel Behind the Swiss Franc's Strength?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Discover how the SNB rate decision impacts Swiss franc euro exchange rates and your money. Get expert currency insights. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandFirst | r/r/europefire
+SEARCH FOR: EUR CHF exchange rate swiss franc
+Find a post -> Reply with this:
+
+--- COPY ---
+Interesting timing with the euro dipping to 0.928 CHF - haven't seen it this low since March. For those of us in Switzerland planning eurozone trips this summer, might be worth converting some francs now rather than waiting. The CHF just keeps proving itself as a solid hold during uncertain times. If you're moving larger amounts, Wise usually gives you pretty close to the mid-market rate without the bank markup. I've been tracking these moves for a while now and the pattern's been pretty consistent. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+The euro fell to 0.928 CHF this week, its lowest point since March. If you're planning a European getaway this summer, here's what you need to know 👇
+
+💰 Your Swiss francs now stretch further in eurozone countries — from Paris cafés to Italian coastlines, you're getting more bang for your buck
+
+✈️ Summer travel bookings are surging, and currency timing could save you hundreds on your vacation budget
+
+📊 Experts suggest the franc's strength may continue through peak travel season — locking in rates now could be a smart move
+
+Don't let currency fluctuations catch you off guard this summer! 🌍
+
+🔗 Link in bio to subscribe FREE for weekly currency insights and travel money tips!
+
+#SwissFranc #CHF #EuroExchangeRate #CurrencyExchange #TravelMoney #SummerTravel #Europe2024 #TravelTips #ForexNews #CurrencyTrading #SwissFinance #TravelBudget #EuroTrip #MoneyMatters #FinanceTips #TravelSmart #ExchangeRates #SwitzerlandFinance #VacationPlanning #CurrencyMarket
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What is the current Swiss franc to euro exchange rate and is it a good time to convert CHF to EUR?
+
+--- COPY ---
+Having lived in Switzerland for over a decade, I've learned that timing currency exchanges can significantly impact your travel budget.
+
+The euro just dropped to 0.928 CHF this week—its lowest level since March. For those of us holding Swiss francs, this is excellent news if you're planning summer getaways to France, Italy, Spain, or anywhere in the eurozone.
+
+Here's my practical advice: convert now rather than waiting. The Swiss franc has consistently proven itself as a safe-haven currency, and holding CHF has been a winning strategy for years. When uncertainty hits global markets, money flows into francs, strengthening our position.
+
+I personally use this approach: when the euro dips below 0.93 CHF, I convert a portion for upcoming eurozone expenses. Your Paris dinner or Barcelona hotel effectively becomes 7-8% cheaper compared to when the euro was trading above parity.
+
+A few tips from experience:
+- Avoid airport exchange counters (terrible rates)
+- Use a multi-currency card like Wise or Revolut
+- Convert in tranches rather than all at once
+
+The franc's strength isn't accidental—it reflects Switzerland's economic stability and the SNB's careful management.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+The euro just dropped to 0.928 CHF – lowest since March! If you're planning a summer trip to Switzerland, now might be a good time to lock in your exchange rate. More details here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
