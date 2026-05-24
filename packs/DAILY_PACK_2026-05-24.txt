@@ -1,0 +1,138 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-24
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB rate decision looms—what it means for your CHF
+  SUBTITLE: Swiss Franc Strength: Blessing or Curse for Your Wallet
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-24.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB rate decision looms—what it means for your CHF
+4. SUBTITLE: Swiss Franc Strength: Blessing or Curse for Your Wallet?
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Doing This to Your Portfolio?
+   2. Alert: CHF Surge Impacts Your Savings Now
+   3. CHF Up 8% in 2024: What It Means for You
+   4. 3 Ways the Strong Franc Affects Your Finances
+   5. Is the Mighty Swiss Franc Helping or Hurting You?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision could reshape Swiss franc savings 2026—discover how policy shifts impact your CHF returns and what to expect next. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/switzerlandfinance | r/r/Finanzen
+SEARCH FOR: Swiss savings account interest rates 2024 2025
+Find a post -> Reply with this:
+
+--- COPY ---
+Something that bugs me about Swiss savings right now - we have this 'safe' reputation but your money is actually losing value sitting in a bank account. Did the math recently: with inflation around 1.1% and most banks paying maybe 0.5-0.75%, a CHF 50k emergency fund quietly loses CHF 175-300 in real purchasing power every year. Not catastrophic but it adds up. Been looking at alternatives like Neon which at least has competitive rates for a free account, plus exploring some low-cost ETFs for anything beyond my 6-month cushion. Anyone else struggling with where to park CHF these days?
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Swiss Franc Strength: Blessing or Curse for Your Wallet? 💰🇨🇭
+
+With Swiss inflation at just 1.1% and savings accounts offering 0.5-0.75% interest, is the strong franc helping or hurting you?
+
+Here's what you need to know:
+
+✅ Strong CHF = cheaper imports & foreign travel becomes more affordable
+
+✅ Low inflation protects your purchasing power better than most currencies worldwide
+
+✅ BUT your savings barely keep pace – time to explore smarter investment strategies
+
+The franc's strength is a double-edged sword. Understanding how to navigate it can make all the difference for your financial future.
+
+👉 Link in bio to subscribe FREE and get weekly insights on protecting & growing your wealth in Switzerland!
+
+#SwissFranc #CHF #SwissFinance #PersonalFinance #WealthBuilding #SwissEconomy #Inflation #SavingsAccount #MoneyTips #FinancialFreedom #InvestSmart #SwissLife #ExpatsInSwitzerland #MoneyMatters #FinanceTips #SwissBanking #CurrencyStrength #WealthManagement #FinancialLiteracy #SmartMoney
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: How should I invest my Swiss franc savings in 2026 to beat inflation?
+
+--- COPY ---
+Here's the uncomfortable math most Swiss banks won't highlight in their glossy brochures.
+
+With current Swiss inflation hovering around 1.1% and savings accounts offering a measly 0.5-0.75% interest, you're experiencing what I call 'silent wealth erosion.' That CHF 50,000 emergency fund you're responsibly maintaining? It's losing approximately CHF 175-300 in real purchasing power every single year.
+
+After 15 years in Switzerland, I've watched countless expats and locals alike fall into this trap—assuming Swiss stability equals Swiss growth. It doesn't.
+
+Your options for 2026:
+
+**Medium-term bonds** – Swiss government bonds now offer slightly better yields than 2023-2024 lows.
+
+**Pillar 3a optimization** – Still the most tax-efficient vehicle for most residents. Max it out before considering taxable investments.
+
+**Diversified ETF portfolios** – Even conservative Swiss investors are increasingly allocating to global index funds.
+
+**High-yield savings accounts** – Some digital banks offer marginally better rates (0.9-1.0%), though still below inflation.
+
+The key isn't abandoning cash entirely—liquidity matters. It's understanding that anything beyond 6 months of expenses sitting in a standard savings account is actively working against you.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Ever wonder if the strong Swiss Franc is actually helping or hurting your finances? 🇨🇭 With inflation at 1.1% and savings accounts barely keeping up at 0.5-0.75%, it's worth taking a closer look. Check out the breakdown here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
