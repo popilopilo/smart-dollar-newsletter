@@ -1,0 +1,144 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-25
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    Swiss inflation drops to 0.8% — what it means for 
+  SUBTITLE: Your Franc Just Got Stronger 💪
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-25.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    Swiss inflation drops to 0.8% — what it means for you
+4. SUBTITLE: Your Franc Just Got Stronger 💪
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What's Behind Your Franc's Sudden Surge? 💪
+   2. Act Now: CHF Strength Window Closing Fast 💪
+   3. CHF Up 3.2% vs EUR—Your Portfolio Impact 💪
+   4. 5 Ways to Leverage Your Stronger Franc 💪
+   5. Is Your Portfolio Ready for Peak CHF? 💪
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss inflation drops to 0.8% in May 2025—discover how this impacts your Swiss inflation savings 2026 strategy and purchasing power. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwissPersonalFinance | r/r/Finanzen
+SEARCH FOR: Swiss savings account interest rates 2024 2025
+Find a post -> Reply with this:
+
+--- COPY ---
+This is actually a pretty interesting situation for Swiss savers right now. With inflation at 0.8% and savings rates around 1-1.5%, you're getting real positive returns for the first time in ages. Nothing crazy, but your money isn't losing purchasing power anymore which is nice after years of negative/zero rates. If you're keeping cash in CHF, might be worth shopping around - some banks like Neon offer decent rates without the usual minimums. Just don't expect miracles, Swiss banks aren't exactly known for generous interest. Still beats parking euros somewhere with 2.4% inflation eating your lunch.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Your Franc Just Got Stronger 💪
+
+Switzerland's May inflation reading came in at just 0.8%, well below the eurozone—and here's why that matters for your money:
+
+🔹 Lower inflation = stronger purchasing power. While other currencies lose value, the Swiss Franc holds firm, making your savings work harder.
+
+🔹 Switzerland continues to lead in monetary stability. This signals confidence in the economy and attracts global investors seeking a safe haven.
+
+🔹 A stronger Franc benefits importers & travelers. Expect better deals on foreign goods and more value when you travel abroad.
+
+Stay ahead of the markets and make smarter financial moves.
+
+👉 Link in bio to subscribe FREE for weekly insights!
+
+#SwissFranc #Inflation #Switzerland #ForexTrading #CurrencyMarkets #EconomicNews #FinancialFreedom #InvestSmart #MoneyMatters #WealthBuilding #ForexNews #StrongCurrency #SwissEconomy #Eurozone #FinanceTips #MarketUpdate #InvestingTips #GlobalMarkets #PersonalFinance #MoneyMoves
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: How can Swiss residents protect savings from inflation in 2026
+
+--- COPY ---
+Living in Switzerland, I can confirm this is genuinely exciting news for savers here.
+
+With inflation at just 0.8% and savings accounts now offering rates between 1-1.5% at most major banks, we're experiencing something that felt impossible just two years ago: actual purchasing power growth on idle cash.
+
+Here's the practical reality for 2026 planning:
+
+**What's working:**
+- Medium-term savings accounts (12-24 months) at cantonal banks are offering the best rates
+- Pillar 3a accounts remain tax-advantaged and now provide meaningful real returns
+- The strong franc adds another layer of wealth preservation
+
+**What I'm doing personally:**
+- Keeping 6 months expenses in a high-yield savings account
+- Maximizing Pillar 3a contributions before year-end
+- Not rushing into riskier investments just for yield
+
+The SNB's steady hand at 1.25% suggests this environment continues into 2026. Unlike our eurozone neighbors still battling higher inflation, Swiss residents can actually build wealth through simple savings vehicles.
+
+One caveat: rates vary significantly between banks. UBS and Credit Suisse successors often lag behind cantonal banks and online alternatives like Yuh or Neon.
+
+I cover Swiss personal finance strategies weekly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Your Franc Just Got Stronger 💪
+
+Switzerland just posted 0.8% inflation for May — way below what the eurozone is dealing with. Your money's holding up nicely 🇨🇭
+
+https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
