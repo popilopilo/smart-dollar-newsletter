@@ -1,0 +1,132 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-27
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means for Your CH
+  SUBTITLE: Swiss Franc Hits 2-Year High Against Dollar — Your Move
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-27.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means for Your CHF
+4. SUBTITLE: Swiss Franc Hits 2-Year High Against Dollar — Your Move
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Suddenly Surging?
+   2. CHF at 2-Year High: Act Before the Window Closes
+   3. CHF/USD Breaks 0.84 — A 2-Year Peak. Now What?
+   4. 3 Moves Smart Investors Make When CHF Spikes
+   5. Is Your Portfolio Ready for a Stronger Franc?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision could reshape Swiss franc investing 2026 strategies. Learn how EUR/CHF at 0.93 impacts your transfers. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/ExpatFinance
+SEARCH FOR: swiss franc strong EUR CHF transfers 2024 2025
+Find a post -> Reply with this:
+
+--- COPY ---
+This is honestly something I don't see discussed enough. If you're Swiss and have been putting off sending money to family abroad or paying off USD/GBP obligations, now's a great time. I moved some funds to the UK last month and the difference vs early 2024 was noticeable. For the actual transfers, Wise has been solid for me - transparent fees and mid-market rates, no surprises. Just don't sleep on it if the franc pulls back. Currency windows close fast. Been tracking CHF movements for a while now, good breakdown of timing strategies here if you're interested.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Swiss Franc Hits 2-Year High Against Dollar — Your Move
+
+With EUR/CHF hovering at 0.93 and the dollar weakening, Swiss residents sending money abroad are sitting on a golden opportunity. Here's what you need to know:
+
+💰 Your CHF now buys significantly more USD than it has in 2 years — maximizing your transfer value
+
+📊 Currency experts suggest this strength may be temporary as global markets stabilize — timing matters
+
+🔄 Smart expats are locking in rates NOW for upcoming transfers, tuition payments, and investments abroad
+
+Don't let this window close without taking action.
+
+👉 Link in bio to subscribe FREE and get weekly currency insights delivered straight to your inbox!
+
+#SwissFranc #CHF #CurrencyExchange #ForexNews #SwissFinance #MoneyTransfer #ExpatLife #SwissExpats #DollarWeakness #CurrencyTrading #ForexTrading #SwissBanking #FinancialPlanning #WealthManagement #GlobalFinance #MoneyMatters #SmartMoney #InvestmentTips #SwissEconomy #FinanceTips
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Is it a good time for Swiss residents to invest internationally with the strong franc in 2026?
+
+--- COPY ---
+As someone who's been managing cross-border finances from Switzerland for over a decade, I can tell you that 2026 is shaping up to be particularly interesting for franc holders.
+
+The current EUR/CHF rate hovering at 0.93 combined with dollar weakness means we're sitting in an exceptionally favorable position. If you're transferring money to family in the US or UK, or investing in foreign markets, you're effectively getting 8-12% more purchasing power compared to last year. That's significant.
+
+For Swiss residents considering international investments, here's my practical take:
+
+**Don't rush to convert everything.** The SNB remains cautious, and while the franc is strong, timing large conversions around your actual needs makes more sense than speculating.
+
+**Consider dollar-cost averaging** into foreign assets if that's your strategy. The favorable rate cushions any volatility.
+
+**Review your transfer providers.** With these rates, even small percentage differences in fees matter more in absolute terms.
+
+The franc's strength isn't accidental—it reflects Switzerland's economic stability. But remember, what benefits your international transfers today might shift. Stay informed, act strategically, and don't let a good rate make you overextend.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc just hit a 2-year high against the dollar 📈 If you're sending money from Switzerland, now's a pretty solid time to make your move. Quick breakdown here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
