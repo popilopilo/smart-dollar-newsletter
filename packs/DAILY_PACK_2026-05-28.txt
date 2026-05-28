@@ -1,0 +1,128 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-05-28
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Incoming + Your CHF Strategy
+  SUBTITLE: Swiss Franc Surges: What It Means for Your Wallet
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-05-28.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Incoming + Your CHF Strategy
+4. SUBTITLE: Swiss Franc Surges: What It Means for Your Wallet
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Suddenly Skyrocketing?
+   2. Act Now: CHF Surge Could Impact Your Savings
+   3. Swiss Franc Hits 3-Month High Against Euro Today
+   4. 5 Ways the CHF Rally Affects Your Finances
+   5. Is Your Portfolio Ready for the Franc's Rise?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss Franc Euro exchange update: EUR/CHF at 0.93 means your CHF buys 4.2% more in Germany & France. SNB decision ahead. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/askswitzerland | r/r/Finanzen
+SEARCH FOR: EUR CHF exchange rate cross-border shopping
+Find a post -> Reply with this:
+
+--- COPY ---
+Finally some good news for us Swiss folks lol. Been doing cross-border shopping in Konstanz for years but lately it's been even sweeter. Picked up a new espresso machine last weekend and saved like €65 compared to buying it here. The 0.93 rate is honestly pretty solid - your francs go about 4% further than they did in January. For bigger purchases (electronics, furniture, even filling up the car), the savings add up fast. I usually check the rate before heading over and try to time it right. Pro tip: keep an eye on the trend, these things can shift quick. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+💰 Your Swiss Franc just got a MAJOR upgrade! 🇨🇭
+
+With EUR/CHF hitting 0.93, your money is working harder than ever across the border. Here's what this means for YOU:
+
+✅ Shopping in Germany & France? Your CHF now stretches 4.2% further – hello, savings!
+
+✅ Weekend getaways to eurozone destinations just became significantly cheaper for Swiss residents
+
+✅ Smart money move: Now's the perfect time to plan those cross-border purchases you've been postponing
+
+Don't let this currency advantage pass you by! 📈
+
+👉 Link in bio to subscribe FREE and stay ahead of the markets!
+
+#SwissFranc #CHF #EURCHF #ForexTrading #CurrencyExchange #SwissFinance #MoneyTips #PersonalFinance #ForexNews #CurrencyMarket #SwissMoney #EuroZone #FinancialFreedom #WealthBuilding #SmartMoney #ForexTrader #InvestingTips #MoneyMatters #FinanceTips #SwissLife
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Is now a good time for Swiss residents to shop in the Eurozone with the current EUR/CHF exchange rate?
+
+--- COPY ---
+Living in Switzerland for over a decade, I've learned to watch EUR/CHF like a hawk, and right now conditions are genuinely favorable for cross-border shopping.
+
+With the exchange rate sitting at 0.93, your Swiss Francs are stretching about 4.2% further in Germany, France, and Italy compared to where we were in January. That might sound modest, but it adds up quickly.
+
+If you're heading to Konstanz, Annecy, or Como for bigger purchases—electronics, furniture, winter gear—you're realistically saving €40-80 compared to earlier this year. I just picked up a new espresso machine in Lörrach and the combined savings from VAT refund plus the favorable rate made the 30-minute drive absolutely worth it.
+
+The sweet spot right now is purchases in the €500-1500 range. Below that, the savings don't justify the trip. Above that, you're often better off negotiating with Swiss retailers who'll match cross-border pricing to keep your business.
+
+My advice: keep your euros rather than converting back immediately. The SNB hasn't signaled any dramatic moves, and summer travel season means you'll use them anyway.
+
+I cover currency movements and practical Swiss finance tips weekly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc flexing right now 💪 With EUR/CHF at 0.93, your money goes 4.2% further when you hop over to Germany or France. Perfect timing for that weekend trip! More details here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
