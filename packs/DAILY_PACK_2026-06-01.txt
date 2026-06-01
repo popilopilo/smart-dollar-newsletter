@@ -1,0 +1,130 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-01
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    Swiss inflation drops to 0.8% - what it means for 
+  SUBTITLE: Summer's Here and So Are Cheaper Prices
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-01.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    Swiss inflation drops to 0.8% - what it means for your wallet
+4. SUBTITLE: Summer's Here and So Are Cheaper Prices
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What's Behind Our Surprise Summer Rate Drop?
+   2. 48 Hours: Summer Pricing Ends Soon
+   3. Summer Rates Cut by 15% for EU Clients
+   4. 5 Ways to Save This Summer on Finance Fees
+   5. Ready to Lock In Lower Summer Rates?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss inflation hits 0.8% in May 2025—learn how lower prices impact your Swiss inflation savings and monthly budget. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandIsFake | r/r/askswitzerland
+SEARCH FOR: Switzerland savings interest rates 2024
+Find a post -> Reply with this:
+
+--- COPY ---
+Finally some good news for Swiss savers! With inflation at 0.8% and most savings accounts offering around 1-1.5%, we're actually seeing real positive returns for the first time in years. If you're still parking money in a traditional big bank account earning 0.2%, now's a good time to switch. Neon and similar neobanks are offering better rates with less hassle. The SNB holding at 1.25% suggests this environment might stick around for a bit. Obviously not financial advice, but worth reviewing where your cash is sitting. I've been following Swiss macro stuff closely lately. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+☀️ Summer's Here and So Are Cheaper Prices!
+
+Switzerland's inflation rate just dropped to 0.8% in May — the lowest since 2021! 📉🇨🇭
+
+Here's what this means for you:
+
+💰 Your purchasing power is stronger — everyday essentials cost less relative to your income
+
+🏠 Lower inflation often signals stable interest rates, which is great news for mortgages and loans
+
+📊 Switzerland continues to outperform most of Europe, where inflation remains significantly higher
+
+This is a win for consumers, savers, and anyone planning summer spending! 🎉
+
+👉 Want more insights like this delivered straight to your inbox? Link in bio to subscribe FREE!
+
+#SwitzerlandEconomy #Inflation #EconomicNews #SwissLife #FinanceTips #MoneyMatters #Investing #PersonalFinance #EconomyUpdate #SwissNews #FinancialFreedom #WealthBuilding #MoneyTalk #EuropeEconomy #InflationRate #SummerSavings #FinancialLiteracy #SmartMoney #GlobalEconomy #Switzerland
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Is it worth keeping money in Swiss savings accounts with current interest rates and inflation?
+
+--- COPY ---
+Living in Switzerland for over a decade, I can tell you this is genuinely exciting news for savers.
+
+With inflation dropping to 0.8% in May—our lowest since 2021—something remarkable has happened: your savings account is actually growing in real terms. This hasn't been the case for years.
+
+Here's the practical reality on the ground. Most Swiss banks currently offer savings rates between 1.0% and 1.5%. When you subtract that 0.8% inflation, you're looking at positive real returns of 0.2% to 0.7%. Not spectacular, but after years of watching purchasing power erode, it feels like a win.
+
+The SNB holding rates at 1.25% suggests this environment should persist for a while. My advice? If you've been parking money in a 0% current account (and many of us do out of habit), now's the time to move it into a proper savings account or even a medium-term note.
+
+For those with larger sums, consider staggering across different banks to maximize the FINMA deposit protection of CHF 100,000 per institution.
+
+Switzerland continues to be a remarkable outlier in Europe—stable currency, controlled inflation, and now actual returns on savings.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Summer's here and so is some good news for your wallet ☀️ Switzerland's inflation just dropped to 0.8% in May – the lowest since 2021! More details in my latest newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
