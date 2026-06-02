@@ -1,0 +1,134 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-02
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means for Your CH
+  SUBTITLE: Swiss Franc at 3-Month High — Time to Lock In Rates?
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-02.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means for Your CHF
+4. SUBTITLE: Swiss Franc at 3-Month High — Time to Lock In Rates?
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Surging Right Now?
+   2. Act Now: CHF Hits 3-Month Peak — Rates Won't Last
+   3. CHF Up 4.2% Since March — Lock In Before the Shift
+   4. 3 Reasons to Secure Your CHF Rate Today
+   5. Is Now the Right Time to Lock In Your CHF Rate?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision impacts Swiss franc investing 2026 strategies. Learn how the CHF's 4.2% euro gain affects your portfolio. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/ExpatFinance
+SEARCH FOR: swiss franc euro exchange rate 2024 2025
+Find a post -> Reply with this:
+
+--- COPY ---
+This is actually solid advice that most people overlook. The CHF strength has been insane this year - if you're sitting on francs and planning eurozone travel, you're basically getting a 4% discount compared to January. I locked in some EUR through Wise last month when the rate looked good, saved me a decent chunk on a planned Italy trip. The SNB wildcard is real though - they've intervened before when exporters start screaming, so this window might not last forever. Whether you're investing or just planning holidays, paying attention to these currency moves can save you serious money. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Swiss Franc just hit a 3-MONTH HIGH — here's what smart money is doing right now 👇
+
+The franc's 4.2% gain against the euro this year means your purchasing power abroad has never been stronger. But will it last?
+
+💡 3 things you need to know:
+
+• Lock in rates NOW if you're planning European travel, property purchases, or international transfers — this strength window won't stay open forever
+
+• Exporters and investors with EUR exposure should hedge strategically — the franc's safe-haven status is driving continued demand amid global uncertainty
+
+• Central bank watchers: The SNB's next move could shift everything — stay informed before making major currency decisions
+
+📊 Whether you're transferring funds, investing internationally, or planning that dream Euro trip — timing matters.
+
+🔗 Link in bio to subscribe FREE and get currency alerts, market insights, and expert analysis delivered straight to your inbox!
+
+#SwissFranc #CHF #ForexTrading #CurrencyExchange #ForexNews #SwissEconomy #EuroZone #CurrencyMarkets #FXTrading #InvestmentTips #WealthManagement #FinancialFreedom #MoneyMoves #ForexAnalysis #TradingTips #GlobalFinance #CurrencyTrading #SwissBanking #ForexSignals #SmartMoney
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Should I invest in Swiss francs in 2026
+
+--- COPY ---
+Having lived in Switzerland for over a decade and managed CHF-denominated assets, I can offer some perspective on this.
+
+The franc's 4.2% gain against the euro this year reflects exactly what we Swiss residents have come to expect – our currency strengthening during global uncertainty. It's both a blessing and a curse, depending on which side of the border you're shopping.
+
+For 2026 positioning, here's my practical take:
+
+**The SNB factor is real.** The Swiss National Bank has historically intervened when the franc gets "too strong" – it hurts our export-heavy economy. They've been quieter lately, but don't assume this continues indefinitely.
+
+**If you're holding CHF:** Your purchasing power in the eurozone is genuinely impressive right now. Travel, property hunting in France or Italy, euro-denominated investments – all effectively discounted.
+
+**If you're considering CHF exposure:** The safe-haven premium is already priced in. You're not getting a bargain entry point.
+
+My honest advice? The franc rarely disappoints long-term holders, but expecting another 4%+ gain assumes continued global instability and SNB passivity. Neither is guaranteed.
+
+Lock in rates for planned expenses. Stay diversified for investments.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc just hit a 3-month high 📈 If you're thinking about locking in rates or have purchases abroad coming up, now might be the moment — that 4.2% gain against the euro is real purchasing power. Quick breakdown here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
