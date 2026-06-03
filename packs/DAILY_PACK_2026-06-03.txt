@@ -1,0 +1,128 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-03
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means for Your CH
+  SUBTITLE: Swiss Franc Surges as ECB Signals Summer Pause
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-03.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means for Your CHF
+4. SUBTITLE: Swiss Franc Surges as ECB Signals Summer Pause
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Just Hit a New High Against the Euro
+   2. Alert: CHF Spikes After ECB's Surprise Pause Signal
+   3. Swiss Franc Jumps 1.2% as ECB Hints at Summer Rate Hold
+   4. 3 Reasons the CHF Is Surging Post-ECB Announcement
+   5. Is the ECB's Summer Pause Your Cue to Reposition on CHF?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision could reshape Swiss franc savings rates. Learn how policy changes affect your 1.25-1.5% APY returns. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/ExpatFinance
+SEARCH FOR: Swiss savings account rates 2024 SNB
+Find a post -> Reply with this:
+
+--- COPY ---
+Heads up for anyone parking CHF in savings - the window for decent rates is closing. Most Swiss banks are still offering 1.25-1.5% APY, which isn't bad considering inflation is basically zero there. But with the SNB likely holding at 0.75% or potentially cutting further, banks will adjust downward soon. Neon extended their 1.25% promo through August if you're looking to lock something in. Not life-changing returns, but beats letting cash sit at 0.1% like the big banks offer. If you're holding CHF anyway, might as well grab what you can while these rates exist. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Swiss savings accounts are still offering 1.25-1.5% APY, but with the SNB expected to hold rates steady, your window to lock in these returns is closing fast 🇨🇭💰
+
+Here's what you need to know about the Swiss Franc surge:
+
+💡 The ECB's summer pause signal is pushing investors toward safe-haven currencies like CHF, strengthening its position against the Euro
+
+💡 Swiss banks are maintaining attractive savings rates while other central banks cut—making CHF-denominated accounts increasingly competitive for wealth preservation
+
+💡 Currency strength + stable interest rates = a rare double advantage for those holding Swiss Francs right now
+
+Don't miss the next market move that could impact your portfolio 📈
+
+👉 Link in bio to subscribe FREE and stay ahead of global currency shifts!
+
+#SwissFranc #CHF #ForexTrading #CurrencyMarkets #ECB #SNB #SwissBanking #WealthManagement #ForexNews #InvestmentStrategy #SafeHavenCurrency #InterestRates #SavingsAccount #FinancialFreedom #MoneyMoves #ForexTrader #GlobalMarkets #CurrencyStrength #SmartInvesting #FinanceTips
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What are the best savings account interest rates in Switzerland right now?
+
+--- COPY ---
+Living in Switzerland, I've been tracking this closely, and honestly, the window for decent savings rates is closing fast.
+
+Right now, you can still find 1.25-1.5% APY on Swiss franc savings accounts, which sounds modest but is actually remarkable given Switzerland's history of negative rates. Neon just extended their 1.25% promotional rate through August 2025, which is worth noting if you've been sitting on the fence.
+
+Here's the reality check though: the SNB is currently at 0.75% and there's growing speculation about another cut. When that happens—and most analysts think it's a matter of when, not if—banks will follow suit within weeks. We saw this pattern after every recent SNB decision.
+
+My approach? I've moved idle cash into these promotional accounts now rather than waiting. The difference between earning 1.25% and 0.5% on 50,000 CHF is roughly 375 CHF annually—not life-changing, but not nothing either.
+
+The Swiss banking landscape rewards those who actually pay attention and act. Most people leave money in accounts earning 0.1% because switching feels like effort. Don't be most people.
+
+I cover Swiss banking rates and personal finance strategies weekly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc is rallying after the ECB hinted at a summer pause 📈 Meanwhile, Swiss savings accounts are still sitting at 1.25-1.5% APY, but the SNB might shake things up soon. Full breakdown here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
