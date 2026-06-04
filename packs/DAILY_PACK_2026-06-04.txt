@@ -1,0 +1,134 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-04
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Next Week: How to Position Now
+  SUBTITLE: Swiss Franc Hits 2026 High Against Dollar—What It Means
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-04.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Next Week: How to Position Now
+4. SUBTITLE: Swiss Franc Hits 2026 High Against Dollar—What It Means for Your Money
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Soaring? Your Money Explained
+   2. Alert: CHF Hits 2026 High—Act on Your Portfolio Now
+   3. Swiss Franc Up 4.7% vs USD: Key Moves for Investors
+   4. 3 Ways the CHF Surge Impacts Your Wealth Today
+   5. Is Your Money Ready for the Franc's Record High?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Currency markets brace for SNB rate decision June 2026. Learn how to position your portfolio ahead of next week's announcement. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/ExpatFinance | r/r/currencies
+SEARCH FOR: SNB interest rate decision June 2026 swiss franc
+Find a post -> Reply with this:
+
+--- COPY ---
+With the SNB decision coming up on the 19th, I'd hold off on any big USD to CHF conversions right now. The franc's 4.2% gain since April is brutal if you're sitting on dollars - basically lost money doing nothing. Markets are pricing in another hold or maybe a small cut, but honestly nobody knows what Jordan's successor will do. If you need to move money regardless, at least use Wise or similar to avoid getting destroyed on spreads during volatile periods. I've been tracking this stuff weekly and the timing really matters more than people think. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🚨 Swiss Franc Hits 2026 High Against Dollar—What It Means for Your Money
+
+With the SNB rate decision just 8 days away, currency markets are jittery. The franc is flexing its safe-haven muscle, and smart investors are paying attention.
+
+Here's what you need to know:
+
+💰 The CHF surge signals global uncertainty—investors are fleeing to safety, and the Swiss franc is their go-to shelter
+
+📉 If you're holding USD assets or planning European travel, your purchasing power just took a hit—time to reassess your strategy
+
+🔮 The upcoming SNB decision could either accelerate this trend or trigger a sharp reversal—positioning NOW is critical
+
+Don't get caught off guard by currency swings that silently erode your wealth.
+
+👉 Link in bio to subscribe FREE and stay ahead of the markets!
+
+#SwissFranc #CurrencyTrading #ForexNews #SNB #DollarWeakness #SafeHavenAssets #ForexTrader #CurrencyMarkets #InvestingTips #FinancialNews #WealthBuilding #ForexAnalysis #MoneyMoves #SmartInvesting #GlobalMarkets #TradingStrategy #EconomicNews #ForexLife #InvestorMindset #FinancialFreedom
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: SNB interest rate decision June 2026 prediction
+
+--- COPY ---
+**What to Expect from the SNB Rate Decision in June 2026**
+
+As someone who's navigated Swiss monetary policy shifts for over a decade, I can tell you this upcoming decision feels particularly consequential.
+
+The SNB has been walking a tightrope between controlling inflation and managing franc strength. With the currency up 4.2% against the dollar since April, Chairman Schlegel faces a familiar dilemma: cut rates to weaken the franc and support exporters, or hold steady to keep inflation anchored.
+
+My read? The SNB will likely cut by 25 basis points, bringing the policy rate down further. Here's why:
+
+- **Inflation remains subdued** – consistently below the 2% target
+- **Export sector pressure** – a stronger franc hurts margins for our watchmakers, pharma giants, and machinery firms
+- **ECB divergence** – the SNB historically shadows ECB moves with Swiss characteristics
+
+For those holding USD, the timing matters. Converting now locks in a weaker rate than you'd have gotten in April. Waiting is a gamble on SNB dovishness actually weakening the franc.
+
+My advice? Don't try to time central banks perfectly. Dollar-cost average your conversions and sleep better.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc just hit a 2026 high against the dollar and with the SNB rate decision only 8 days out, things are getting interesting. If you've got money moving between currencies, this could actually matter for your wallet. Quick breakdown here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
