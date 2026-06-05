@@ -1,0 +1,130 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-05
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Next Week: How to Position Now
+  SUBTITLE: Swiss Franc Strengthens as ECB Signals Summer Pause
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-05.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Next Week: How to Position Now
+4. SUBTITLE: Swiss Franc Strengthens as ECB Signals Summer Pause
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Is Surging After ECB's Latest Signal
+   2. Act Now: CHF Rally Accelerates on ECB Pause News
+   3. CHF Hits 3-Month High as ECB Confirms Summer Rate Hold
+   4. 3 Ways the ECB Summer Pause Will Impact Your CHF Position
+   5. Is the Swiss Franc's Strength Just Getting Started?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   Swiss savers face a critical window before the SNB rate decision June 2026—here's how to position your portfolio now. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/Finanzen
+SEARCH FOR: SNB rate decision June 2025 savings
+Find a post -> Reply with this:
+
+--- COPY ---
+Heads up for anyone with savings sitting in a Swiss account - the SNB is almost certainly cutting rates by 25bps next Thursday. If you haven't locked in rates yet, now's basically your last chance to get anything decent. Digital banks are still offering around 1.25% while the big banks are basically giving you nothing (seriously, some are at 0%). Neon's still competitive if you're already using them. Not saying to panic, but waiting another week means you'll probably be looking at even worse options. Worth spending 10 minutes to move some cash around imo.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Swiss Franc just got stronger — here's what it means for YOUR money 💰
+
+The ECB is signaling a summer pause, and the Swiss Franc is flexing. But here's the catch: Swiss savers have a NARROW WINDOW to lock in attractive rates before the SNB's next move.
+
+📊 Here's what you need to know:
+
+✅ The ECB's pause is boosting CHF strength against the Euro — your purchasing power abroad just increased
+
+✅ Current Swiss savings rates won't last forever — the SNB is expected to cut, making NOW the time to act
+
+✅ Smart money is moving into fixed-term deposits and CHF-denominated assets before the window closes
+
+⏰ Don't wait until rates drop to wish you'd locked in today's numbers.
+
+👉 Link in bio to subscribe FREE and stay ahead of every market shift that impacts your wealth.
+
+#SwissFranc #CHF #ECB #SNB #SwissBanking #ForexTrading #CurrencyMarkets #InterestRates #SwissEconomy #WealthManagement #PersonalFinance #InvestmentTips #MoneyMoves #FinancialFreedom #SavingsGoals #ForexNews #EuroZone #CentralBank #SmartInvesting #FinanceTips
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: SNB interest rate decision June 2026
+
+--- COPY ---
+The SNB is widely expected to cut rates by 25 basis points at their June 2026 meeting next Thursday, bringing the policy rate down further into accommodative territory.
+
+For those of us living in Switzerland, this decision matters beyond the headlines. The practical impact hits our savings accounts directly. Right now, there's a striking gap in the market - digital banks like Yuh, Neon, and Radicant are still offering around 1.25% on savings, while UBS, Credit Suisse (now integrated), and other traditional players hover near 0%.
+
+This window is closing fast. Once the SNB announces the cut, these digital bank rates will almost certainly adjust downward within days. If you've been procrastinating on moving idle cash from your 0% Sparkonto, this week is your moment.
+
+The SNB's reasoning remains consistent: inflation is well-controlled, the franc remains strong, and supporting economic growth takes priority. For savers, this translates to yet another squeeze on returns.
+
+My recommendation: lock in current rates where possible, consider medium-term options if your liquidity allows, and accept that Swiss franc savings simply won't generate meaningful returns in this environment. The security premium we pay for living here extends to our bank accounts.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc getting stronger after ECB hints at a summer break on rate moves 📈 If you've got savings in CHF, now might be the time to lock in decent rates before the SNB makes its next move. Check out the details here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
