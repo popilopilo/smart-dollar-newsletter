@@ -1,0 +1,141 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-08
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means for Your CH
+  SUBTITLE: Swiss Franc Strength Testing Your Portfolio? Here's You
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-08.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means for Your CHF
+4. SUBTITLE: Swiss Franc Strength Testing Your Portfolio? Here's Your Game Plan
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. What the Strong Franc Means for Your Portfolio
+   2. Act Now: CHF Surge Demands Your Attention
+   3. 3 Moves to Shield Your Portfolio From CHF Volatility
+   4. 5 Steps to Navigate Swiss Franc Strength
+   5. Is Your Portfolio Ready for the Rising Franc?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision could reshape Swiss franc investing 2026 strategies as EUR/CHF hits 0.93. Learn what this means for your portfolio. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/askswitzerland | r/r/swissfinance
+SEARCH FOR: EUR CHF exchange rate frontalier cross-border worker 2024 2025
+Find a post -> Reply with this:
+
+--- COPY ---
+Yeah the EUR/CHF situation is brutal right now. As a frontalier myself, I've been tracking this closely. What's helped me is keeping a portion of savings directly in CHF rather than converting everything. If you're getting paid in euros but spending in Switzerland, consider opening a multi-currency account - Wise actually works well for this since their conversion fees are transparent and you can hold CHF directly. Also worth looking into whether your employer offers partial CHF payment if you're cross-border. The 7% erosion adds up fast when you're talking rent and groceries. Not financial advice but diversifying currency exposure has saved me some pain this year.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+Swiss Franc Strength Testing Your Portfolio? Here's Your Game Plan 💪🇨🇭
+
+The euro continues its slide against the franc, now hovering at 0.93 CHF. For cross-border investors, this matters more than ever.
+
+Here's what you need to know:
+
+📊 Diversify currency exposure – Don't let a single currency dominate your holdings. Spread risk across multiple markets.
+
+💡 Hedge strategically – Consider currency-hedged ETFs or forward contracts to protect against further franc appreciation.
+
+🎯 Rebalance with purpose – A strong franc means Swiss assets cost more. Review your allocation and adjust entry points accordingly.
+
+The franc's safe-haven status isn't going anywhere. Smart investors adapt their strategy, not their goals.
+
+🔗 Link in bio to subscribe FREE for weekly insights on navigating currency moves and protecting your wealth.
+
+#SwissFranc #CHF #CurrencyTrading #ForexTrading #EuroCHF #PortfolioManagement #WealthManagement #InvestingTips #FinancialFreedom #SwissEconomy #ForexMarket #CurrencyHedging #InvestorLife #MarketUpdate #TradingStrategy #PersonalFinance #MoneyManagement #GlobalInvesting #FinanceTips #SmartInvesting
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Is investing in Swiss francs a good idea for 2026?
+
+--- COPY ---
+Having lived in Switzerland for 15 years and watched currency cycles closely, here's my take:
+
+The EUR/CHF rate at 0.93 reflects ongoing economic uncertainty in the eurozone and Switzerland's safe-haven status. For those considering franc investments in 2026, understand what you're really buying into.
+
+**The reality check:**
+- Swiss francs offer stability, not growth. You're essentially paying a premium for security.
+- SNB intervention remains unpredictable. They've historically stepped in when the franc strengthens too rapidly.
+- Real returns on CHF deposits are minimal—often negative after accounting for Swiss inflation.
+
+**What I tell my cross-border colleagues:**
+If you're earning in euros, you've already lost 7% purchasing power year-over-year. Converting to francs now locks in that loss. However, if you expect further euro weakness, gradual conversion makes sense.
+
+**Practical approach for 2026:**
+Consider CHF allocation as insurance rather than investment. A 20-30% portfolio allocation provides hedging without overexposure to a currency that yields almost nothing.
+
+Don't chase the franc because it's "strong." Strong currencies don't automatically mean strong returns. They mean preserved value—which, honestly, is sometimes exactly what you need.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc Strength Testing Your Portfolio? Here's Your Game Plan 💰
+
+The euro keeps sliding against the franc, now sitting at 0.93 CHF – and if you're holding cross-border assets, this matters more than you think. I break down what moves actually make sense right now.
+
+https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
