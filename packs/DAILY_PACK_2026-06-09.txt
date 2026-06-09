@@ -1,0 +1,136 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-09
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB Rate Decision Looms: What It Means for Your CH
+  SUBTITLE: Swiss Franc Strengthens as ECB Signals Summer Pause
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-09.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB Rate Decision Looms: What It Means for Your CHF
+4. SUBTITLE: Swiss Franc Strengthens as ECB Signals Summer Pause
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Is Rallying After ECB's Latest Move
+   2. Alert: CHF Surges as ECB Hints at Summer Rate Pause
+   3. CHF Hits 3-Month High on ECB Summer Pause Signal
+   4. 3 Reasons the Swiss Franc Is Gaining on ECB News
+   5. Will the ECB's Summer Pause Keep Lifting the Franc?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision impacts Swiss franc investing 2026 strategies. Learn what this means for your CHF holdings and 3a contributions. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandIsFake | r/r/Finanzen
+SEARCH FOR: Swiss 3a pillar contributions 2025 2026
+Find a post -> Reply with this:
+
+--- COPY ---
+Good reminder about the 3a timing! June is actually smart because you're halfway through the year and can plan your cash flow better for the remaining contributions. The CHF 7,056 limit for 2026 isn't huge but the tax savings are real—depending on your canton, you're looking at 20-40% back on that amount. I've been splitting mine between a few providers to compare performance. For those just starting out, Neon's 3a is pretty solid with low fees if you want a simple setup. Don't sleep on this if you haven't maxed out yet, compound interest + tax deduction is basically free money over time.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+☀️ Summer is here, and so is your financial check-in moment!
+
+With the Swiss Franc gaining strength as the ECB signals a pause in rate changes, now's the perfect time to revisit your retirement strategy.
+
+💡 Here's why June is your 3a power month:
+
+✅ Half-year checkpoint – Review your contributions and maximize tax benefits before year-end rush
+
+✅ Currency advantage – A stronger CHF means your Swiss-based retirement savings hold more purchasing power
+
+✅ Market clarity – ECB's summer pause gives you a stable window to plan without rate uncertainty
+
+Don't let mid-year pass without optimizing your pillar 3a!
+
+👉 Link in bio to subscribe FREE for weekly Swiss finance insights
+
+#SwissFranc #3aPillar #SwissFinance #ECB #RetirementPlanning #Pillar3a #SwissBanking #PersonalFinance #WealthBuilding #TaxSavings #FinancialFreedom #SwissEconomy #InvestSmart #MoneyTips #FinanceTips #SwissLife #EuropeanMarkets #CurrencyTrading #FinancialPlanning #WealthManagement
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: Is investing in Swiss francs through pillar 3a a good strategy for 2026?
+
+--- COPY ---
+Great question! If you're considering Swiss franc investments for 2026, your pillar 3a should absolutely be part of that strategy.
+
+Here's what most people overlook: the 2026 maximum contribution is CHF 7,056 for employees with a pension fund. That's not just savings—it's an immediate return through tax deduction. Depending on your canton and marginal tax rate, you could save 25-40% on that amount in taxes alone. No investment can guarantee those returns.
+
+My approach as a Swiss resident:
+
+1. **Max out 3a first** - The tax advantage is essentially risk-free yield
+2. **Choose a 3a with equity exposure** - If you have 10+ years until retirement, a stock-heavy 3a (like those from VIAC, Finpension, or Frankly) historically outperforms traditional bank 3a accounts
+3. **Consider multiple 3a accounts** - You can split contributions across providers for flexibility during withdrawal
+
+June is actually the perfect reminder to set up your contributions if you haven't already. Many people wait until December and either forget or lack the liquidity.
+
+The Swiss franc's stability makes these tax-advantaged accounts even more attractive compared to investing in foreign currencies.
+
+I cover strategies like this regularly.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Hey! Swiss Franc's climbing after the ECB hinted at a summer pause 📈 Quick reminder since we're already in June – good time to check in on your 3a contributions for 2026. More details here: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
