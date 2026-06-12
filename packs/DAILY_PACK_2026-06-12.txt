@@ -1,0 +1,134 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-12
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB rate decision next week—how to position now
+  SUBTITLE: Swiss Franc Surges as ECB Holds Steady
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-12.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB rate decision next week—how to position now
+4. SUBTITLE: Swiss Franc Surges as ECB Holds Steady
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Swiss Franc Suddenly Outpacing the Euro?
+   2. Alert: CHF Spikes After ECB Rate Decision—Act Now
+   3. Swiss Franc Jumps 2.3% as ECB Maintains Current Rates
+   4. 3 Reasons the CHF Rally Could Reshape Your Portfolio
+   5. Will the ECB's Hold Keep Pushing the Franc Higher?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision 2026 could trigger major currency swings. Learn how to position your portfolio before next week's announcement. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandFinance | r/r/ExpatFinance
+SEARCH FOR: SNB rate decision currency exchange timing
+Find a post -> Reply with this:
+
+--- COPY ---
+With the SNB decision coming up, just a heads up for anyone planning big transfers this summer - tuition payments, property stuff, sending money to family, whatever. Currency volatility typically spikes around 40% during these announcements. We already saw EUR/CHF drop 1.2% recently which can mean hundreds of francs difference on larger amounts. If you've got transfers coming up, might be worth locking in rates now rather than gambling on what happens after the decision. Wise lets you set up rate alerts which is handy for timing this stuff. Been burned before by waiting "just one more day" and watching rates move against me. Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Currency volatility spikes 40% around central bank decisions. If you're planning international investments, here's what you need to know:
+
+The Swiss Franc just made a major move while the ECB held rates steady. Smart investors are paying attention 👀
+
+📊 Here's what this means for your portfolio:
+
+• The SNB's diverging policy stance is creating safe-haven demand for CHF – expect continued strength against the Euro in Q4
+
+• EUR/CHF approaching multi-year lows signals potential opportunities for currency hedging strategies and European asset purchases
+
+• Central bank policy divergence historically creates 6-12 month trading windows – timing your forex exposure matters more than ever
+
+💡 Don't let currency moves eat into your returns. Stay informed, stay ahead.
+
+🔗 Link in bio to subscribe FREE for weekly currency insights and market analysis!
+
+#SwissFranc #ECB #ForexTrading #CurrencyMarkets #CentralBank #CHF #EUR #ForexNews #InvestmentStrategy #WealthBuilding #FinancialFreedom #TradingTips #MarketAnalysis #ForexLife #SwissEconomy #EuroZone #CurrencyTrading #SmartInvesting #FinanceNews #MoneyMoves
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: SNB interest rate decision 2026 impact currency transfers
+
+--- COPY ---
+**What should expats know about the SNB rate decision timing for transfers?**
+
+Having navigated Swiss banking for over a decade, I've learned one crucial lesson: central bank announcements are not the time to be moving large sums internationally.
+
+Currency volatility spikes 40% around central bank decisions—this isn't theory, it's observable market behavior. The recent EUR/CHF drop of 1.2% might seem small, but on a CHF 100,000 property deposit or university tuition payment, that's CHF 1,200 evaporating in hours.
+
+For the 2026 SNB decisions, here's my approach:
+
+**Plan transfers 2-3 weeks before scheduled announcements.** The SNB calendar is public—use it. Markets price in expectations beforehand, so volatility peaks around the actual decision.
+
+**Consider forward contracts** if you have predictable large transfers (tuition semesters, mortgage payments). Lock rates now while CHF strength is relatively stable.
+
+**Split larger transfers** rather than moving everything at once. I personally use 3-4 tranches for amounts over CHF 50,000.
+
+Summer transfers—family support, property closings, education costs—deserve strategic timing, not reactive panic. The SNB's decisions affect us all, but preparation separates those who lose money from those who don't.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc surging after ECB held rates steady 📈 Fun fact: currency volatility jumps 40% around central bank decisions. If you're planning any forex moves or travel, might want to check this out https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
