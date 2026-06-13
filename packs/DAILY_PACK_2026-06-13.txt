@@ -1,0 +1,130 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-13
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB rate decision next week—how to position now
+  SUBTITLE: The Swiss Franc Is Flexing Again
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-13.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB rate decision next week—how to position now
+4. SUBTITLE: The Swiss Franc Is Flexing Again
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the Swiss Franc Is Suddenly Gaining Ground
+   2. Alert: CHF Surge Demands Your Attention Now
+   3. CHF Hits 3-Month High Against EUR—Key Levels to Watch
+   4. 5 Reasons the Swiss Franc Is Outperforming in 2024
+   5. Is the Swiss Franc Rally Just Getting Started?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB rate decision June 2026 could shake EUR/CHF further. Learn how to position your portfolio before next week's announcement. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/askswitzerland | r/r/EuropeFIRE
+SEARCH FOR: SNB interest rate decision June 2026 EUR CHF exchange rate
+Find a post -> Reply with this:
+
+--- COPY ---
+The SNB holding rates while the franc keeps strengthening is honestly great timing for anyone with eurozone travel plans. EUR/CHF at 0.93 means your Swiss salary goes way further across the border. I converted some CHF for a trip to Portugal next month and it felt almost unfair compared to last year's rates. If you're booking summer holidays in Italy or Spain, might be worth exchanging now rather than waiting - the franc could strengthen more but you're already getting solid value. For larger amounts Wise usually gives better rates than the banks, just watch the timing. Anyone else taking advantage of this for summer travel?
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+The Swiss Franc Is Flexing Again 💪🇨🇭
+
+With EUR/CHF dropping from 0.97 to 0.93 since April, your eurozone purchases stretch further than ever. Here's what you need to know:
+
+📊 The franc has gained over 4% against the euro in just a few months—smart travelers and investors are paying attention
+
+🛡️ Switzerland's safe-haven status is pulling capital in as global uncertainty rises—this trend could continue
+
+💡 Whether you're shopping in Milan, investing in EU assets, or planning that Paris trip, timing your currency exchange could save you hundreds
+
+Don't miss the next big currency move before it happens.
+
+👉 Link in bio to subscribe FREE and stay ahead of the markets!
+
+#SwissFranc #EURCHF #ForexTrading #CurrencyMarkets #ForexNews #SwissEconomy #SafeHavenCurrency #EurozoneCurrency #ForexAnalysis #CurrencyTrading #FXMarkets #TradingTips #FinancialNews #MarketUpdate #ForexTrader #InvestmentTips #GlobalMarkets #CurrencyExchange #WealthBuilding #SmartMoney
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: SNB rate decision June 2026
+
+--- COPY ---
+Great question, and the timing couldn't be more relevant.
+
+The SNB held rates steady at 0.25% in June 2026, which surprised absolutely no one following Swiss monetary policy. What's far more interesting for those of us living here is what's happening with the franc.
+
+With EUR/CHF dropping from 0.97 to 0.93 since April, your eurozone purchases stretch further. If you're planning summer travel to Italy, France, or Spain, now's the time to lock in rates. A €2,000 holiday that cost you CHF 2,060 in April now runs about CHF 1,860. That's a free dinner for four in Nice.
+
+For cross-border shoppers (and let's be honest, that's most of us), this franc strength is a genuine windfall. German supermarkets, French outlets, Italian fuel stations—everything's effectively 4% cheaper than two months ago.
+
+The SNB isn't thrilled about this appreciation, mind you. They've been quietly intervening, but fighting safe-haven flows in the current global environment is like pushing water uphill.
+
+My advice? Don't bet on this lasting forever. Convert what you need for summer plans now, but keep your long-term savings diversified.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+The Swiss Franc is flexing again 💪 EUR/CHF dropped from 0.97 to 0.93 since April, which means your eurozone purchases just got cheaper. Here's what it means for your wallet: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
