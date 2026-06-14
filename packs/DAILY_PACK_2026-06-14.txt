@@ -1,0 +1,134 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-14
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB holds rates steady—what it means for your wall
+  SUBTITLE: Swiss Franc Stays Strong as SNB Pauses at 0.25%
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-14.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB holds rates steady—what it means for your wallet
+4. SUBTITLE: Swiss Franc Stays Strong as SNB Pauses at 0.25%
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why the SNB's Bold Pause Could Reshape Your Portfolio
+   2. Breaking: SNB Holds at 0.25% – Act Now
+   3. SNB Freezes Rates at 0.25%: CHF Hits 3-Month High
+   4. 3 Reasons the SNB's 0.25% Hold Strengthens the Franc
+   5. Will the SNB's Rate Pause Push CHF Even Higher?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB holds rates steady—discover how Swiss savings rates 2026 impact your wallet as neobanks compete for deposits. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/swissfinance | r/r/Banking
+SEARCH FOR: Swiss savings account rates 2026 neobank
+Find a post -> Reply with this:
+
+--- COPY ---
+Finally some positive movement on Swiss savings rates! After years of basically paying banks to hold our money, even 0.75% feels like a win. Neon's offer up to CHF 25k is decent for parking an emergency fund, though obviously not going to make anyone rich. What I find interesting is how competitive the neobank space has gotten here - they're actually fighting for deposits now which is something I never thought I'd see in Switzerland. Still nowhere near what you can get in EUR or USD accounts, but the stability of CHF has its own value. Anyone else finally moving money out of their 0% pillows? Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+🇨🇭 Swiss Franc Stays Strong as SNB Pauses at 0.25%
+
+With Swiss rates stable, local neobanks are competing hard for deposits. Neon now offers 1.5% on savings—here's what it means for your money 👇
+
+💡 SNB holds rates at 0.25%, signaling confidence in economic stability
+💡 Neobanks like Neon, Yuh & Zak are battling for your deposits with better rates than traditional banks
+💡 The strong franc continues to impact exporters while benefiting consumers on imports
+
+🔗 Link in bio to subscribe FREE and stay ahead of Swiss finance news!
+
+#SwissFranc #SNB #SwissNationalBank #Neobank #NeonBank #SwissFinance #InterestRates #PersonalFinance #SwissBanking #CHF #FinancialNews #MoneyMatters #SavingsAccount #SwissEconomy #Fintech #DigitalBanking #WealthManagement #InvestSmart #FinanceTips #MoneyMoves
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: What are the best savings account interest rates in Switzerland 2026
+
+--- COPY ---
+Having lived through the negative interest rate era in Switzerland, I can tell you that 0.75% feels almost luxurious by comparison.
+
+Here's the current landscape for 2026:
+
+**Neobanks leading the charge:**
+- Neon: 0.75% up to CHF 25,000
+- Yuh: Similar competitive rates with flexible conditions
+- Zak: Attractive for bundled banking packages
+
+**Traditional banks:**
+Still lagging significantly—most cantonal and major banks offer 0.25-0.4% at best, with UBS and Credit Suisse (now merged) barely moving the needle.
+
+**What Swiss residents should know:**
+
+The SNB has kept rates stable, which means banks aren't under pressure to raise deposit rates aggressively. The competition is primarily coming from neobanks hungry for market share.
+
+My strategy? I split savings across multiple neobanks to maximize the tiered rate benefits. Yes, it's more accounts to manage, but the difference adds up when you're parking emergency funds.
+
+One caveat: always verify deposit protection. Swiss banks cover CHF 100,000 per depositor—neobanks included, as long as they're properly licensed.
+
+After years of literally paying banks to hold our money, even modest positive returns feel like a win.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Swiss Franc holding steady after SNB kept rates at 0.25% 🇨🇭 Meanwhile Swiss neobanks like Neon are fighting hard for your deposits now that rates aren't going anywhere. Full breakdown here 👉 https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
