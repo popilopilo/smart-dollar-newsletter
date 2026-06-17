@@ -1,0 +1,132 @@
+THE SMART DOLLAR - COMPLETE DAILY PACK
+Date: 2026-06-17
+================================================================
+
+AUTOMATED TODAY (zero action needed):
+  [AUTO] Newsletter HTML -> GitHub/newsletters/
+  [AUTO] Pinterest pin posted
+  [AUTO] Twitter thread posted (if keys set)
+  [AUTO] Video created -> GitHub/videos/
+
+================================================================
+STEP 1 - CANVA THUMBNAIL (2 min)
+================================================================
+Open your Canva template, change these 2 lines only:
+  TITLE:    SNB holds rates steady — what it means for your wa
+  SUBTITLE: Swiss Franc Strength: Your Summer Money Playbook
+Download as PNG -> upload in Beehiiv step below
+
+================================================================
+STEP 2 - BEEHIIV SEND (5 min)
+================================================================
+1. GitHub -> newsletters/ -> newsletter_2026-06-17.html -> Raw -> Copy All
+2. app.beehiiv.com -> + New Post
+3. TITLE:    SNB holds rates steady — what it means for your wallet
+4. SUBTITLE: Swiss Franc Strength: Your Summer Money Playbook
+5. Body -> type / -> HTML block -> paste
+6. Next -> Audience: Email and web, All subscribers
+7. Email step: check subject. Alternative subject lines:
+   1. Why Is the Franc Outperforming This Summer?
+   2. CHF Surge Alert: Act Before August Ends
+   3. 3 CHF Moves Smart Investors Make in Summer
+   4. 5 Ways to Leverage Franc Strength Right Now
+   5. Is Your Portfolio Ready for Peak CHF?
+8. Web: Advanced capture = Popup, Show thumbnail = ON, Feature = ON
+9. META DESCRIPTION (paste in SEO + Facebook + Twitter):
+   SNB interest rate 2026 outlook: Swiss National Bank holds steady at 0.25%, impacting savings and loans. What this means for you. Free daily newsletter.
+10. Upload Canva thumbnail
+11. Next -> Review -> SEND!
+
+================================================================
+STEP 3 - REDDIT (2 min) - MOST POWERFUL
+================================================================
+WHERE: r/r/eupersonalfinance | r/r/Switzerland | r/r/SwitzerlandIsBoring | r/r/askswitzerland
+SEARCH FOR: SNB interest rate 2026 savings
+Find a post -> Reply with this:
+
+--- COPY ---
+SNB holding at 0.25% isn't surprising given inflation is behaving nicely around 1.1%. For those of us parking money in CHF, savings rates are pretty meh at 0.75-1% right now. Neon's offering competitive rates if you're looking to maximize what little yield exists. Honestly though, with rates this low, might be worth considering whether a chunk of your savings should be working harder elsewhere. The SNB seems comfortable where they are, so don't expect much movement soon. Anyone else just accepting the low returns for the stability? Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+
+================================================================
+VIDEO - Script ready (video generation may have failed)
+================================================================
+If you want to film yourself reading this (anonymous, just show charts):
+
+
+
+================================================================
+STEP 4 - INSTAGRAM (2 min)
+================================================================
+Post your Canva thumbnail + this caption:
+
+--- COPY ---
+💰 The Swiss Franc just got more interesting for your summer plans!
+
+The Swiss National Bank held rates steady at 0.25% this month — here's what it means for YOUR money:
+
+🔹 **Stability Signal** — Unchanged rates show SNB confidence in the economy, making CHF a reliable safe-haven currency for travelers and investors alike
+
+🔹 **Forex Opportunity** — A strong Swiss Franc means better purchasing power if you're heading to Europe this summer — time to plan that Alpine getaway!
+
+🔹 **Smart Portfolio Move** — Consider CHF-denominated assets as a hedge against global volatility while other central banks remain uncertain
+
+📲 Want weekly insights like this delivered straight to your inbox? Link in bio to subscribe FREE!
+
+#SwissFranc #CHF #ForexTrading #CurrencyMarket #SwissNationalBank #SNB #InterestRates #MoneyMoves #ForexNews #InvestingTips #WealthBuilding #FinancialFreedom #ForexTrader #CurrencyTrading #SummerFinance #MoneyPlaybook #SwissEconomy #SafeHavenCurrency #TradingStrategy #FinanceTips
+--- END ---
+
+================================================================
+STEP 5 - QUORA (3 min) - RANKS ON GOOGLE
+================================================================
+quora.com -> search: SNB interest rate forecast 2026 Switzerland
+
+--- COPY ---
+**What can we expect from SNB interest rates in 2026?**
+
+As someone who's been tracking Swiss monetary policy for years, here's my take on where we're heading.
+
+The SNB's decision to hold rates at 0.25% tells us something important: they're comfortable with the current inflation trajectory around 1.1%. This is classic Swiss central banking—cautious, measured, and focused on long-term stability rather than dramatic moves.
+
+For 2026, I expect rates to remain in the 0-0.50% range unless we see significant external shocks. The SNB has limited room to cut further without returning to negative territory, which they clearly want to avoid after the 2015-2022 experiment.
+
+What does this mean practically?
+
+- **Savers**: Don't expect miracles. That 0.75-1% on CHF savings accounts is likely your ceiling for now.
+- **Mortgage holders**: Variable rates should stay favorable, but don't count on significant drops.
+- **The franc**: Expect continued strength, which the SNB tolerates as long as inflation stays contained.
+
+The Swiss approach prioritizes stability over stimulus. Boring? Perhaps. But that predictability is exactly why many of us appreciate banking here.
+
+Stay informed on Swiss finance and expat money matters.
+
+Free newsletter: https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+STEP 6 - WHATSAPP/TELEGRAM (30 sec)
+================================================================
+--- COPY ---
+Hey! Quick heads up - the Swiss Franc is looking strong right now with the SNB holding rates steady at 0.25%. If you're planning any summer travels or currency moves, this might be worth a look 👀 https://arnauds-newsletter-47845f.beehiiv.com
+--- END ---
+
+================================================================
+YOUR AFFILIATE LINKS
+================================================================
+Revolut:       https://revolut.com/referral/?referral-code=arnaud1zrf!MAY1-26-AR-L1&geo-redirect
+Coinbase:      https://coinbase.com/join/RSRGFEP?src=ios-link
+eToro:         https://etoro.tw/4vZbEOP
+NordVPN:       https://refer-nordvpn.com/BrJJQSzaIsM
+Neon(SDB98A):  http://onelink.to/neon
+Yuh(uzwi60):   https://www.yuh.com/download
+Binance:       https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z6UROXWP
+Alpian(PCXTNB):https://onelink.to/download-alpian
+Wise:          https://wise.com/invite/mic/f238f6e
+GetYourGuide:  https://www.getyourguide.com/switzerland-l125/?partner_id=NPTQI2G&utm_medium=online_publisher
+
+SUBSCRIBE LINK: https://arnauds-newsletter-47845f.beehiiv.com
+TARGET: 500 subscribers -> Beehiiv ad network -> passive income!
+================================================================
+MINIMUM DAILY TASKS: Beehiiv send + Reddit = 7 min
+FULL DAILY TASKS: All steps above = ~15 min
